@@ -1,0 +1,10 @@
+## 13. Outlook: what to watch through 2027
+
+- **Large multi-agent worlds.** Google DeepMind and Fenris Creations, the studio behind EVE Online, announced a research partnership in August 2026 to study "cooperation, competition, negotiation, economics, and emergent social behavior at scale", along with memory and continual learning [@deepmindeve]. No results had been published by October.
+- **A Genie successor or API.** Genie 3 has led interactive world models since August 2025, and public access is still a 60-second demo [@projectgenie2026]. Watch for longer horizons, a developer API and agents trained at scale inside generated worlds.
+- **Consolidation in world models.** Money followed the field: World Labs raised US$1 billion in February 2026 and AMD agreed in September to buy it for about US$8.2 billion in stock [@worldlabsamd], and Yann LeCun's AMI Labs raised a US$1.03 billion seed round in March 2026 without releasing a model [@ami2026].
+- **Continual learning in frontier models.** Lab leaders spent 2026 predicting it [@hassabis2026; @amodei2026]. The first model that updates its own weights from deployment will change what a persistent agent can be.
+- **Discovery engines.** AlphaEvolve is generally available, and open alternatives such as OpenEvolve and ShinkaEvolve are free to run [@alphaevolve2026ga; @openevolve2025; @shinka2025]. Expect discovery loops to move into more domains, and to keep running into the limits of their verifiers [@cao2026].
+- **Agent economies and their rules.** Collusion, market manipulation and agents acting for people are now being studied in real deployments [@vendingarena; @projectdeal; @tomasev2025]. Rules will follow; the EU AI Act's next deadlines fall in 2026 to 2028 [@euaiact].
+- **Measurement.** The field still lacks agreed measures of open-endedness for systems built on foundation models. Benchmarks such as WorldRoamBench for world models and MEAL for continual learning point the way [@xu2026worldroam; @meal2026].
+- **Conferences.** NeurIPS 2026 (December) includes workshops on self-evolving search and AI scientists [@neurips2026workshops]. ALIFE 2027 will be held in Prague [@alife2027].

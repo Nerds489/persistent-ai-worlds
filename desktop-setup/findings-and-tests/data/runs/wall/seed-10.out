@@ -1,0 +1,7 @@
+runs/wall/seed-10: year 764  population 1165 (west 535, east 630)  max generation 266  (0.53 years/s)  energy conserved to 2.6e-09
+resumed runs/wall/seed-10 at year 764
+runs/wall/seed-10: year 823  population 1099 (west 474, east 625)  max generation 280  (0.25 years/s)  energy conserved to 1.9e-09
+resumed runs/wall/seed-10 at year 823
+runs/wall/seed-10: year 5,000  population 1224 (west 576, east 648)  max generation 1242  (0.57 years/s)  energy conserved to 7.2e-08
+resumed runs/wall/seed-10 at year 5,000
+runs/wall/seed-10: year 10,000  population 1202 (west 501, east 701)  max generation 2332  (0.56 years/s)  energy conserved to 5.1e-08

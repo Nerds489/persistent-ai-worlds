@@ -1,0 +1,5 @@
+runs/none/seed-6: year 2,000  population 1106 (west 498, east 608)  max generation 377  (1.09 years/s)  energy conserved to 6.7e-08
+resumed runs/none/seed-6 at year 2,000
+runs/none/seed-6: year 2,054  population 1101 (west 508, east 593)  max generation 377  (0.22 years/s)  energy conserved to 6.9e-08
+resumed runs/none/seed-6 at year 2,054
+runs/none/seed-6: year 10,000  population 1131 (west 537, east 594)  max generation 1766  (0.57 years/s)  energy conserved to 5.4e-07

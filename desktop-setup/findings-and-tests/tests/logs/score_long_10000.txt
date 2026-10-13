@@ -1,0 +1,43 @@
+reached year: {'base': 10000, 'none': 10000, 'ford1': 10000, 'wall': 10000}
+
+Baldwin ratio copy/none gene_alpha by checkpoint
+    300  copy 0.1682  none 0.0454  ratio 3.71  t 9.33
+   1000  copy 0.0893  none 0.0340  ratio 2.63  t 6.23
+   2000  copy 0.0607  none 0.0327  ratio 1.86  t 6.43
+   3000  copy 0.0539  none 0.0327  ratio 1.65  t 4.36
+   4000  copy 0.0507  none 0.0337  ratio 1.50  t 4.20
+   5000  copy 0.0440  none 0.0321  ratio 1.37  t 4.00
+   6000  copy 0.0432  none 0.0335  ratio 1.29  t 3.25
+   7000  copy 0.0422  none 0.0320  ratio 1.32  t 3.89
+   8000  copy 0.0402  none 0.0334  ratio 1.21  t 3.75
+   9000  copy 0.0411  none 0.0331  ratio 1.24  t 2.74
+  10000  copy 0.0391  none 0.0326  ratio 1.20  t 2.33
+  gene_eps           copy 0.0212 +/- 0.0011  none 0.0145 +/- 0.0004  t 5.74
+  q_states           copy 134.9102 +/- 3.6233  none 66.3276 +/- 0.1705  t 18.91
+  policy_complexity  copy 19.7502 +/- 0.0422  none 18.1431 +/- 0.0103  t 36.96
+  signal_entropy     copy 1.6542 +/- 0.0385  none 1.9965 +/- 0.0001  t -8.90
+  population         copy 1198.0025 +/- 8.1534  none 1111.0525 +/- 3.4669  t 9.81
+  max_generation     copy 2461.7856 +/- 44.9680  none 1792.5425 +/- 11.7682  t 14.40
+
+L2 none gene_alpha 0.0326 +/- 0.0008  none signal_entropy 1.9965 +/- 0.0001
+L3 base signal_entropy 1.6542 +/- 0.0385
+L4 base bank_gap 0.1726 +/- 0.0322
+L5 base population 1198.0025 +/- 8.1534  max_generation 2461.7856 +/- 44.9680
+
+L6/L7 dialect_jsd by checkpoint
+   2000 base 0.0059  ford1 0.0020  wall 0.0042
+   3000 base 0.0069  ford1 0.0054  wall 0.0037
+   4000 base 0.0060  ford1 0.0059  wall 0.0077
+   5000 base 0.0086  ford1 0.0090  wall 0.0083
+   6000 base 0.0109  ford1 0.0126  wall 0.0113
+   7000 base 0.0125  ford1 0.0095  wall 0.0081
+   8000 base 0.0103  ford1 0.0090  wall 0.0118
+   9000 base 0.0101  ford1 0.0114  wall 0.0124
+  10000 base 0.0098  ford1 0.0100  wall 0.0130
+  wall vs base t 0.98  wall seeds above 0.10: 0
+
+L8 survival
+  base  min pop 334  min bank 153
+  none  min pop 325  min bank 142
+  ford1 min pop 323  min bank 135
+  wall  min pop 318  min bank 141

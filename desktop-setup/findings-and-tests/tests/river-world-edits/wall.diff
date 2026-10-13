@@ -1,0 +1,11 @@
+--- /home/minty/Desktop/desktop-setup/river-world/river_world.py	2026-10-11 13:07:25.594930500 +0800
++++ /home/minty/Desktop/desktop-setup/_build/experiment-s7-wall/river_world.py	2026-10-11 14:02:08.488049498 +0800
+@@ -100,7 +100,7 @@
+                           + 0.03 * size * np.sin(6 * math.pi * rows / size + 2 * ph)).astype(int)
+         for r in rows:
+             t[r, self.cx[r] - 1:self.cx[r] + 2] = RIVER
+-        self.fords = [size // 6, size // 2, 5 * size // 6]
++        self.fords = []                                # E3: no fords, the river is a wall
+         for f in self.fords:
+             for r in (f - 1, f, f + 1):
+                 t[r % size][t[r % size] == RIVER] = FORD

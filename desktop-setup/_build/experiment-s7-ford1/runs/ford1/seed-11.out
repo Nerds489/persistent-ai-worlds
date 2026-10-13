@@ -1,0 +1,7 @@
+runs/ford1/seed-11: year 981  population 1101 (west 690, east 411)  max generation 249  (0.68 years/s)  energy conserved to 4.5e-08
+resumed runs/ford1/seed-11 at year 981
+runs/ford1/seed-11: year 1,033  population 1130 (west 750, east 380)  max generation 266  (0.21 years/s)  energy conserved to 4.8e-08
+resumed runs/ford1/seed-11 at year 1,033
+runs/ford1/seed-11: year 5,000  population 1255 (west 730, east 525)  max generation 1213  (0.56 years/s)  energy conserved to 2.4e-07
+resumed runs/ford1/seed-11 at year 5,000
+runs/ford1/seed-11: year 10,000  population 1208 (west 772, east 436)  max generation 2470  (0.56 years/s)  energy conserved to 2.7e-07

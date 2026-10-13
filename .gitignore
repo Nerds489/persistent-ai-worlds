@@ -1,0 +1,12 @@
+# Run checkpoints: 155 files, 6.4 GB. Only needed to resume a run; every measured number is in the logs.
+# They are archived separately (see PUBLISHING.md, Zenodo).
+*.pkl
+
+# Working copies and bundles, not part of the record
+_github-push-*/
+desktop-setup.7z
+desktop-setup/desktop-sync-*.zip
+
+# Python
+__pycache__/
+*.pyc

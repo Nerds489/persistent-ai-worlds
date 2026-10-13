@@ -1,0 +1,2889 @@
+{
+ "1807.01281": {
+  "title": "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning",
+  "authors": [
+   "Max Jaderberg",
+   "Wojciech M. Czarnecki",
+   "Iain Dunning",
+   "Luke Marris",
+   "Guy Lever",
+   "Antonio Garcia Castaneda",
+   "Charles Beattie",
+   "Neil C. Rabinowitz",
+   "Ari S. Morcos",
+   "Avraham Ruderman",
+   "Nicolas Sonnerat",
+   "Tim Green",
+   "Louise Deason",
+   "Joel Z. Leibo",
+   "David Silver",
+   "Demis Hassabis",
+   "Koray Kavukcuoglu",
+   "Thore Graepel"
+  ],
+  "published": "2018-07-03",
+  "updated": "2018-07-03",
+  "journal_ref": null
+ },
+ "1806.07917": {
+  "title": "Meta-Learning by the Baldwin Effect",
+  "authors": [
+   "Chrisantha Thomas Fernando",
+   "Jakub Sygnowski",
+   "Simon Osindero",
+   "Jane Wang",
+   "Tom Schaul",
+   "Denis Teplyashin",
+   "Pablo Sprechmann",
+   "Alexander Pritzel",
+   "Andrei A. Rusu"
+  ],
+  "published": "2018-06-06",
+  "updated": "2018-06-22",
+  "journal_ref": null
+ },
+ "1903.00784": {
+  "title": "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents",
+  "authors": [
+   "Joseph Suarez",
+   "Yilun Du",
+   "Phillip Isola",
+   "Igor Mordatch"
+  ],
+  "published": "2019-03-02",
+  "updated": "2019-03-02",
+  "journal_ref": null
+ },
+ "2012.02096": {
+  "title": "Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design",
+  "authors": [
+   "Michael Dennis",
+   "Natasha Jaques",
+   "Eugene Vinitsky",
+   "Alexandre Bayen",
+   "Stuart Russell",
+   "Andrew Critch",
+   "Sergey Levine"
+  ],
+  "published": "2020-12-03",
+  "updated": "2021-02-04",
+  "journal_ref": null
+ },
+ "1912.06680": {
+  "title": "Dota 2 with Large Scale Deep Reinforcement Learning",
+  "authors": [
+   " OpenAI",
+   " :",
+   "Christopher Berner",
+   "Greg Brockman",
+   "Brooke Chan",
+   "Vicki Cheung",
+   "Przemys\u0142aw D\u0119biak",
+   "Christy Dennison",
+   "David Farhi",
+   "Quirin Fischer",
+   "Shariq Hashme",
+   "Chris Hesse",
+   "Rafal J\u00f3zefowicz",
+   "Scott Gray",
+   "Catherine Olsson",
+   "Jakub Pachocki",
+   "Michael Petrov",
+   "Henrique P. d. O. Pinto",
+   "Jonathan Raiman",
+   "Tim Salimans",
+   "Jeremy Schlatter",
+   "Jonas Schneider",
+   "Szymon Sidor",
+   "Ilya Sutskever",
+   "Jie Tang",
+   "Filip Wolski",
+   "Susan Zhang"
+  ],
+  "published": "2019-12-13",
+  "updated": "2019-12-13",
+  "journal_ref": null
+ },
+ "1905.10985": {
+  "title": "AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence",
+  "authors": [
+   "Jeff Clune"
+  ],
+  "published": "2019-05-27",
+  "updated": "2020-02-01",
+  "journal_ref": null
+ },
+ "2107.12808": {
+  "title": "Open-Ended Learning Leads to Generally Capable Agents",
+  "authors": [
+   " Open Ended Learning Team",
+   "Adam Stooke",
+   "Anuj Mahajan",
+   "Catarina Barros",
+   "Charlie Deck",
+   "Jakob Bauer",
+   "Jakub Sygnowski",
+   "Maja Trebacz",
+   "Max Jaderberg",
+   "Michael Mathieu",
+   "Nat McAleese",
+   "Nathalie Bradley-Schmieg",
+   "Nathaniel Wong",
+   "Nicolas Porcel",
+   "Roberta Raileanu",
+   "Steph Hughes-Fitt",
+   "Valentin Dalibard",
+   "Wojciech Marian Czarnecki"
+  ],
+  "published": "2021-07-27",
+  "updated": "2021-07-31",
+  "journal_ref": null
+ },
+ "1711.05769": {
+  "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+  "authors": [
+   "Arun Mallya",
+   "Svetlana Lazebnik"
+  ],
+  "published": "2017-11-15",
+  "updated": "2018-05-13",
+  "journal_ref": null
+ },
+ "1612.00796": {
+  "title": "Overcoming catastrophic forgetting in neural networks",
+  "authors": [
+   "James Kirkpatrick",
+   "Razvan Pascanu",
+   "Neil Rabinowitz",
+   "Joel Veness",
+   "Guillaume Desjardins",
+   "Andrei A. Rusu",
+   "Kieran Milan",
+   "John Quan",
+   "Tiago Ramalho",
+   "Agnieszka Grabska-Barwinska",
+   "Demis Hassabis",
+   "Claudia Clopath",
+   "Dharshan Kumaran",
+   "Raia Hadsell"
+  ],
+  "published": "2016-12-02",
+  "updated": "2017-01-25",
+  "journal_ref": null
+ },
+ "2102.02202": {
+  "title": "Embodied Intelligence via Learning and Evolution",
+  "authors": [
+   "Agrim Gupta",
+   "Silvio Savarese",
+   "Surya Ganguli",
+   "Li Fei-Fei"
+  ],
+  "published": "2021-02-03",
+  "updated": "2021-02-03",
+  "journal_ref": null
+ },
+ "2203.01302": {
+  "title": "Evolving Curricula with Regret-Based Environment Design",
+  "authors": [
+   "Jack Parker-Holder",
+   "Minqi Jiang",
+   "Michael Dennis",
+   "Mikayel Samvelyan",
+   "Jakob Foerster",
+   "Edward Grefenstette",
+   "Tim Rockt\u00e4schel"
+  ],
+  "published": "2022-03-02",
+  "updated": "2023-09-30",
+  "journal_ref": null
+ },
+ "1812.00420": {
+  "title": "Efficient Lifelong Learning with A-GEM",
+  "authors": [
+   "Arslan Chaudhry",
+   "Marc'Aurelio Ranzato",
+   "Marcus Rohrbach",
+   "Mohamed Elhoseiny"
+  ],
+  "published": "2018-12-02",
+  "updated": "2019-01-09",
+  "journal_ref": null
+ },
+ "1811.11682": {
+  "title": "Experience Replay for Continual Learning",
+  "authors": [
+   "David Rolnick",
+   "Arun Ahuja",
+   "Jonathan Schwarz",
+   "Timothy P. Lillicrap",
+   "Greg Wayne"
+  ],
+  "published": "2018-11-28",
+  "updated": "2019-11-26",
+  "journal_ref": null
+ },
+ "2212.07906": {
+  "title": "Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization",
+  "authors": [
+   "Erwan Plantec",
+   "Gautier Hamon",
+   "Mayalen Etcheverry",
+   "Pierre-Yves Oudeyer",
+   "Cl\u00e9ment Moulin-Frier",
+   "Bert Wang-Chak Chan"
+  ],
+  "published": "2022-12-14",
+  "updated": "2023-03-24",
+  "journal_ref": null
+ },
+ "2302.12902": {
+  "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning",
+  "authors": [
+   "Ghada Sokar",
+   "Rishabh Agarwal",
+   "Pablo Samuel Castro",
+   "Utku Evci"
+  ],
+  "published": "2023-02-24",
+  "updated": "2023-06-13",
+  "journal_ref": null
+ },
+ "1712.00600": {
+  "title": "MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence",
+  "authors": [
+   "Lianmin Zheng",
+   "Jiacheng Yang",
+   "Han Cai",
+   "Weinan Zhang",
+   "Jun Wang",
+   "Yong Yu"
+  ],
+  "published": "2017-12-02",
+  "updated": "2017-12-02",
+  "journal_ref": null
+ },
+ "2211.13746": {
+  "title": "Melting Pot 2.0",
+  "authors": [
+   "John P. Agapiou",
+   "Alexander Sasha Vezhnevets",
+   "Edgar A. Du\u00e9\u00f1ez-Guzm\u00e1n",
+   "Jayd Matyas",
+   "Yiran Mao",
+   "Peter Sunehag",
+   "Raphael K\u00f6ster",
+   "Udari Madhushani",
+   "Kavya Kopparapu",
+   "Ramona Comanescu",
+   "DJ Strouse",
+   "Michael B. Johanson",
+   "Sukhdeep Singh",
+   "Julia Haas",
+   "Igor Mordatch",
+   "Dean Mobbs",
+   "Joel Z. Leibo"
+  ],
+  "published": "2022-11-24",
+  "updated": "2023-10-31",
+  "journal_ref": null
+ },
+ "1901.01753": {
+  "title": "Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions",
+  "authors": [
+   "Rui Wang",
+   "Joel Lehman",
+   "Jeff Clune",
+   "Kenneth O. Stanley"
+  ],
+  "published": "2019-01-07",
+  "updated": "2019-02-21",
+  "journal_ref": null
+ },
+ "1909.07528": {
+  "title": "Emergent Tool Use From Multi-Agent Autocurricula",
+  "authors": [
+   "Bowen Baker",
+   "Ingmar Kanitscheider",
+   "Todor Markov",
+   "Yi Wu",
+   "Glenn Powell",
+   "Bob McGrew",
+   "Igor Mordatch"
+  ],
+  "published": "2019-09-17",
+  "updated": "2020-02-11",
+  "journal_ref": null
+ },
+ "1910.05789": {
+  "title": "On the Utility of Learning about Humans for Human-AI Coordination",
+  "authors": [
+   "Micah Carroll",
+   "Rohin Shah",
+   "Mark K. Ho",
+   "Thomas L. Griffiths",
+   "Sanjit A. Seshia",
+   "Pieter Abbeel",
+   "Anca Dragan"
+  ],
+  "published": "2019-10-13",
+  "updated": "2020-01-09",
+  "journal_ref": null
+ },
+ "1810.08647": {
+  "title": "Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning",
+  "authors": [
+   "Natasha Jaques",
+   "Angeliki Lazaridou",
+   "Edward Hughes",
+   "Caglar Gulcehre",
+   "Pedro A. Ortega",
+   "DJ Strouse",
+   "Joel Z. Leibo",
+   "Nando de Freitas"
+  ],
+  "published": "2018-10-19",
+  "updated": "2019-06-18",
+  "journal_ref": null
+ },
+ "2005.03742": {
+  "title": "Lenia and Expanded Universe",
+  "authors": [
+   "Bert Wang-Chak Chan"
+  ],
+  "published": "2020-05-07",
+  "updated": "2020-05-07",
+  "journal_ref": "Artificial Life Conference Proceedings 2020, (32), 221-229"
+ },
+ "2205.07802": {
+  "title": "The Primacy Bias in Deep Reinforcement Learning",
+  "authors": [
+   "Evgenii Nikishin",
+   "Max Schwarzer",
+   "Pierluca D'Oro",
+   "Pierre-Luc Bacon",
+   "Aaron Courville"
+  ],
+  "published": "2022-05-16",
+  "updated": "2022-05-16",
+  "journal_ref": null
+ },
+ "1705.05363": {
+  "title": "Curiosity-driven Exploration by Self-supervised Prediction",
+  "authors": [
+   "Deepak Pathak",
+   "Pulkit Agrawal",
+   "Alexei A. Efros",
+   "Trevor Darrell"
+  ],
+  "published": "2017-05-15",
+  "updated": "2017-05-15",
+  "journal_ref": null
+ },
+ "1810.12894": {
+  "title": "Exploration by Random Network Distillation",
+  "authors": [
+   "Yuri Burda",
+   "Harrison Edwards",
+   "Amos Storkey",
+   "Oleg Klimov"
+  ],
+  "published": "2018-10-30",
+  "updated": "2018-10-30",
+  "journal_ref": null
+ },
+ "2206.08896": {
+  "title": "Evolution through Large Models",
+  "authors": [
+   "Joel Lehman",
+   "Jonathan Gordon",
+   "Shawn Jain",
+   "Kamal Ndousse",
+   "Cathy Yeh",
+   "Kenneth O. Stanley"
+  ],
+  "published": "2022-06-17",
+  "updated": "2022-06-17",
+  "journal_ref": null
+ },
+ "1910.08475": {
+  "title": "On Warm-Starting Neural Network Training",
+  "authors": [
+   "Jordan T. Ash",
+   "Ryan P. Adams"
+  ],
+  "published": "2019-10-18",
+  "updated": "2020-12-31",
+  "journal_ref": "2020 Advances in Neural Information Processing Systems"
+ },
+ "2105.10919": {
+  "title": "Continual World: A Robotic Benchmark For Continual Reinforcement Learning",
+  "authors": [
+   "Maciej Wo\u0142czyk",
+   "Micha\u0142 Zaj\u0105c",
+   "Razvan Pascanu",
+   "\u0141ukasz Kuci\u0144ski",
+   "Piotr Mi\u0142o\u015b"
+  ],
+  "published": "2021-05-23",
+  "updated": "2021-10-28",
+  "journal_ref": null
+ },
+ "1911.08265": {
+  "title": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
+  "authors": [
+   "Julian Schrittwieser",
+   "Ioannis Antonoglou",
+   "Thomas Hubert",
+   "Karen Simonyan",
+   "Laurent Sifre",
+   "Simon Schmitt",
+   "Arthur Guez",
+   "Edward Lockhart",
+   "Demis Hassabis",
+   "Thore Graepel",
+   "Timothy Lillicrap",
+   "David Silver"
+  ],
+  "published": "2019-11-19",
+  "updated": "2020-02-21",
+  "journal_ref": null
+ },
+ "1705.08690": {
+  "title": "Continual Learning with Deep Generative Replay",
+  "authors": [
+   "Hanul Shin",
+   "Jung Kwon Lee",
+   "Jaehong Kim",
+   "Jiwon Kim"
+  ],
+  "published": "2017-05-24",
+  "updated": "2017-12-12",
+  "journal_ref": null
+ },
+ "1803.10122": {
+  "title": "World Models",
+  "authors": [
+   "David Ha",
+   "J\u00fcrgen Schmidhuber"
+  ],
+  "published": "2018-03-27",
+  "updated": "2018-05-09",
+  "journal_ref": null
+ },
+ "1606.04671": {
+  "title": "Progressive Neural Networks",
+  "authors": [
+   "Andrei A. Rusu",
+   "Neil C. Rabinowitz",
+   "Guillaume Desjardins",
+   "Hubert Soyer",
+   "James Kirkpatrick",
+   "Koray Kavukcuoglu",
+   "Razvan Pascanu",
+   "Raia Hadsell"
+  ],
+  "published": "2016-06-15",
+  "updated": "2022-10-22",
+  "journal_ref": null
+ },
+ "1504.04909": {
+  "title": "Illuminating search spaces by mapping elites",
+  "authors": [
+   "Jean-Baptiste Mouret",
+   "Jeff Clune"
+  ],
+  "published": "2015-04-20",
+  "updated": "2015-04-20",
+  "journal_ref": null
+ },
+ "2301.07608": {
+  "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+  "authors": [
+   " Adaptive Agent Team",
+   "Jakob Bauer",
+   "Kate Baumli",
+   "Satinder Baveja",
+   "Feryal Behbahani",
+   "Avishkar Bhoopchand",
+   "Nathalie Bradley-Schmieg",
+   "Michael Chang",
+   "Natalie Clay",
+   "Adrian Collister",
+   "Vibhavari Dasagi",
+   "Lucy Gonzalez",
+   "Karol Gregor",
+   "Edward Hughes",
+   "Sheleem Kashem",
+   "Maria Loks-Thompson",
+   "Hannah Openshaw",
+   "Jack Parker-Holder",
+   "Shreya Pathak",
+   "Nicolas Perez-Nieves",
+   "Nemanja Rakicevic",
+   "Tim Rockt\u00e4schel",
+   "Yannick Schroecker",
+   "Jakub Sygnowski",
+   "Karl Tuyls",
+   "Sarah York",
+   "Alexander Zacherl",
+   "Lei Zhang"
+  ],
+  "published": "2023-01-18",
+  "updated": "2023-01-18",
+  "journal_ref": null
+ },
+ "2209.06899": {
+  "title": "Out of One, Many: Using Language Models to Simulate Human Samples",
+  "authors": [
+   "Lisa P. Argyle",
+   "Ethan C. Busby",
+   "Nancy Fulda",
+   "Joshua Gubler",
+   "Christopher Rytting",
+   "David Wingate"
+  ],
+  "published": "2022-09-14",
+  "updated": "2022-09-14",
+  "journal_ref": null
+ },
+ "2301.01609": {
+  "title": "Emergent collective intelligence from massive-agent cooperation and competition",
+  "authors": [
+   "Hanmo Chen",
+   "Stone Tao",
+   "Jiaxin Chen",
+   "Weihan Shen",
+   "Xihui Li",
+   "Chenghui Yu",
+   "Sikai Cheng",
+   "Xiaolong Zhu",
+   "Xiu Li"
+  ],
+  "published": "2023-01-04",
+  "updated": "2023-01-05",
+  "journal_ref": null
+ },
+ "2003.08536": {
+  "title": "Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions",
+  "authors": [
+   "Rui Wang",
+   "Joel Lehman",
+   "Aditya Rawal",
+   "Jiale Zhi",
+   "Yulun Li",
+   "Jeff Clune",
+   "Kenneth O. Stanley"
+  ],
+  "published": "2020-03-19",
+  "updated": "2020-04-13",
+  "journal_ref": null
+ },
+ "1812.05433": {
+  "title": "Lenia - Biology of Artificial Life",
+  "authors": [
+   "Bert Wang-Chak Chan"
+  ],
+  "published": "2018-12-13",
+  "updated": "2019-05-04",
+  "journal_ref": "Complex Systems, 2019, 28(3), 251-286"
+ },
+ "2010.03934": {
+  "title": "Prioritized Level Replay",
+  "authors": [
+   "Minqi Jiang",
+   "Edward Grefenstette",
+   "Tim Rockt\u00e4schel"
+  ],
+  "published": "2020-10-08",
+  "updated": "2021-06-12",
+  "journal_ref": null
+ },
+ "1706.08840": {
+  "title": "Gradient Episodic Memory for Continual Learning",
+  "authors": [
+   "David Lopez-Paz",
+   "Marc'Aurelio Ranzato"
+  ],
+  "published": "2017-06-26",
+  "updated": "2022-09-13",
+  "journal_ref": null
+ },
+ "2307.09320": {
+  "title": "Biomaker CA: a Biome Maker project using Cellular Automata",
+  "authors": [
+   "Ettore Randazzo",
+   "Alexander Mordvintsev"
+  ],
+  "published": "2023-07-18",
+  "updated": "2023-07-18",
+  "journal_ref": null
+ },
+ "2310.08560": {
+  "title": "MemGPT: Towards LLMs as Operating Systems",
+  "authors": [
+   "Charles Packer",
+   "Sarah Wooders",
+   "Kevin Lin",
+   "Vivian Fang",
+   "Shishir G. Patil",
+   "Ion Stoica",
+   "Joseph E. Gonzalez"
+  ],
+  "published": "2023-10-12",
+  "updated": "2024-02-12",
+  "journal_ref": null
+ },
+ "2306.01711": {
+  "title": "OMNI: Open-endedness via Models of human Notions of Interestingness",
+  "authors": [
+   "Jenny Zhang",
+   "Joel Lehman",
+   "Kenneth Stanley",
+   "Jeff Clune"
+  ],
+  "published": "2023-06-02",
+  "updated": "2024-02-15",
+  "journal_ref": null
+ },
+ "2408.15099": {
+  "title": "No Regrets: Investigating and Improving Regret Approximations for Curriculum Discovery",
+  "authors": [
+   "Alexander Rutherford",
+   "Michael Beukman",
+   "Timon Willi",
+   "Bruno Lacerda",
+   "Nick Hawes",
+   "Jakob Foerster"
+  ],
+  "published": "2024-08-27",
+  "updated": "2024-10-29",
+  "journal_ref": null
+ },
+ "2308.11958": {
+  "title": "Maintaining Plasticity in Continual Learning via Regenerative Regularization",
+  "authors": [
+   "Saurabh Kumar",
+   "Henrik Marklund",
+   "Benjamin Van Roy"
+  ],
+  "published": "2023-08-23",
+  "updated": "2024-10-24",
+  "journal_ref": null
+ },
+ "2407.19396": {
+  "title": "NAVIX: Scaling MiniGrid Environments with JAX",
+  "authors": [
+   "Eduardo Pignatelli",
+   "Jarek Liesen",
+   "Robert Tjarko Lange",
+   "Chris Lu",
+   "Pablo Samuel Castro",
+   "Laura Toni"
+  ],
+  "published": "2024-07-28",
+  "updated": "2024-07-28",
+  "journal_ref": null
+ },
+ "2402.16801": {
+  "title": "Craftax: A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning",
+  "authors": [
+   "Michael Matthews",
+   "Michael Beukman",
+   "Benjamin Ellis",
+   "Mikayel Samvelyan",
+   "Matthew Jackson",
+   "Samuel Coward",
+   "Jakob Foerster"
+  ],
+  "published": "2024-02-26",
+  "updated": "2024-06-03",
+  "journal_ref": null
+ },
+ "2401.12258": {
+  "title": "Emergent Dominance Hierarchies in Reinforcement Learning Agents",
+  "authors": [
+   "Ram Rachum",
+   "Yonatan Nakar",
+   "Bill Tomlinson",
+   "Nitay Alon",
+   "Reuth Mirsky"
+  ],
+  "published": "2024-01-21",
+  "updated": "2024-06-22",
+  "journal_ref": null
+ },
+ "2402.18762": {
+  "title": "Disentangling the Causes of Plasticity Loss in Neural Networks",
+  "authors": [
+   "Clare Lyle",
+   "Zeyu Zheng",
+   "Khimya Khetarpal",
+   "Hado van Hasselt",
+   "Razvan Pascanu",
+   "James Martens",
+   "Will Dabney"
+  ],
+  "published": "2024-02-29",
+  "updated": "2024-02-29",
+  "journal_ref": null
+ },
+ "2406.17949": {
+  "title": "The Overcooked Generalisation Challenge: Evaluating Cooperation with Novel Partners in Unknown Environments Using Unsupervised Environment Design",
+  "authors": [
+   "Constantin Ruhdorfer",
+   "Matteo Bortoletto",
+   "Anna Penzkofer",
+   "Andreas Bulling"
+  ],
+  "published": "2024-06-25",
+  "updated": "2025-09-12",
+  "journal_ref": null
+ },
+ "2311.10090": {
+  "title": "JaxMARL: Multi-Agent RL Environments and Algorithms in JAX",
+  "authors": [
+   "Alexander Rutherford",
+   "Benjamin Ellis",
+   "Matteo Gallici",
+   "Jonathan Cook",
+   "Andrei Lupu",
+   "Gardar Ingvarsson",
+   "Timon Willi",
+   "Ravi Hammond",
+   "Akbir Khan",
+   "Christian Schroeder de Witt",
+   "Alexandra Souly",
+   "Saptarashmi Bandyopadhyay",
+   "Mikayel Samvelyan",
+   "Minqi Jiang",
+   "Robert Tjarko Lange",
+   "Shimon Whiteson",
+   "Bruno Lacerda",
+   "Nick Hawes",
+   "Tim Rocktaschel",
+   "Chris Lu",
+   "Jakob Nicolaus Foerster"
+  ],
+  "published": "2023-11-16",
+  "updated": "2026-07-04",
+  "journal_ref": null
+ },
+ "2405.12399": {
+  "title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+  "authors": [
+   "Eloi Alonso",
+   "Adam Jelley",
+   "Vincent Micheli",
+   "Anssi Kanervisto",
+   "Amos Storkey",
+   "Tim Pearce",
+   "Fran\u00e7ois Fleuret"
+  ],
+  "published": "2024-05-20",
+  "updated": "2024-10-30",
+  "journal_ref": null
+ },
+ "2404.00806": {
+  "title": "Algorithmic Collusion by Large Language Models",
+  "authors": [
+   "Sara Fish",
+   "Yannai A. Gonczarowski",
+   "Ran I. Shorrer"
+  ],
+  "published": "2024-03-31",
+  "updated": "2026-08-31",
+  "journal_ref": null
+ },
+ "2305.16291": {
+  "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+  "authors": [
+   "Guanzhi Wang",
+   "Yuqi Xie",
+   "Yunfan Jiang",
+   "Ajay Mandlekar",
+   "Chaowei Xiao",
+   "Yuke Zhu",
+   "Linxi Fan",
+   "Anima Anandkumar"
+  ],
+  "published": "2023-05-25",
+  "updated": "2023-10-19",
+  "journal_ref": null
+ },
+ "2404.10861": {
+  "title": "Trackable Agent-based Evolution Models at Wafer Scale",
+  "authors": [
+   "Matthew Andres Moreno",
+   "Connor Yang",
+   "Emily Dolson",
+   "Luis Zaman"
+  ],
+  "published": "2024-04-16",
+  "updated": "2024-06-02",
+  "journal_ref": null
+ },
+ "2407.03302": {
+  "title": "A Review of the Applications of Deep Learning-Based Emergent Communication",
+  "authors": [
+   "Brendon Boldt",
+   "David Mortensen"
+  ],
+  "published": "2024-07-03",
+  "updated": "2024-07-03",
+  "journal_ref": "Transactions on Machine Learning Research, February 2024"
+ },
+ "2404.16698": {
+  "title": "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents",
+  "authors": [
+   "Giorgio Piatti",
+   "Zhijing Jin",
+   "Max Kleiman-Weiner",
+   "Bernhard Sch\u00f6lkopf",
+   "Mrinmaya Sachan",
+   "Rada Mihalcea"
+  ],
+  "published": "2024-04-25",
+  "updated": "2024-12-08",
+  "journal_ref": null
+ },
+ "2305.15555": {
+  "title": "Deep Reinforcement Learning with Plasticity Injection",
+  "authors": [
+   "Evgenii Nikishin",
+   "Junhyuk Oh",
+   "Georg Ostrovski",
+   "Clare Lyle",
+   "Razvan Pascanu",
+   "Will Dabney",
+   "Andr\u00e9 Barreto"
+  ],
+  "published": "2023-05-24",
+  "updated": "2023-10-03",
+  "journal_ref": null
+ },
+ "2306.13812": {
+  "title": "Maintaining Plasticity in Deep Continual Learning",
+  "authors": [
+   "Shibhansh Dohare",
+   "J. Fernando Hernandez-Garcia",
+   "Parash Rahman",
+   "A. Rupam Mahmood",
+   "Richard S. Sutton"
+  ],
+  "published": "2023-06-23",
+  "updated": "2024-04-09",
+  "journal_ref": null
+ },
+ "2405.15568": {
+  "title": "OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code",
+  "authors": [
+   "Maxence Faldor",
+   "Jenny Zhang",
+   "Antoine Cully",
+   "Jeff Clune"
+  ],
+  "published": "2024-05-24",
+  "updated": "2025-02-14",
+  "journal_ref": null
+ },
+ "2408.06292": {
+  "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery",
+  "authors": [
+   "Chris Lu",
+   "Cong Lu",
+   "Robert Tjarko Lange",
+   "Jakob Foerster",
+   "Jeff Clune",
+   "David Ha"
+  ],
+  "published": "2024-08-12",
+  "updated": "2024-09-01",
+  "journal_ref": null
+ },
+ "2310.11501": {
+  "title": "CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations",
+  "authors": [
+   "Myra Cheng",
+   "Tiziano Piccardi",
+   "Diyi Yang"
+  ],
+  "published": "2023-10-17",
+  "updated": "2023-10-17",
+  "journal_ref": null
+ },
+ "2312.03664": {
+  "title": "Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia",
+  "authors": [
+   "Alexander Sasha Vezhnevets",
+   "John P. Agapiou",
+   "Avia Aharon",
+   "Ron Ziv",
+   "Jayd Matyas",
+   "Edgar A. Du\u00e9\u00f1ez-Guzm\u00e1n",
+   "William A. Cunningham",
+   "Simon Osindero",
+   "Danny Karmon",
+   "Joel Z. Leibo"
+  ],
+  "published": "2023-12-06",
+  "updated": "2023-12-13",
+  "journal_ref": null
+ },
+ "2304.03442": {
+  "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "authors": [
+   "Joon Sung Park",
+   "Joseph C. O'Brien",
+   "Carrie J. Cai",
+   "Meredith Ringel Morris",
+   "Percy Liang",
+   "Michael S. Bernstein"
+  ],
+  "published": "2023-04-07",
+  "updated": "2023-08-06",
+  "journal_ref": null
+ },
+ "2402.01908": {
+  "title": "Large language models that replace human participants can harmfully misportray and flatten identity groups",
+  "authors": [
+   "Angelina Wang",
+   "Jamie Morgenstern",
+   "John P. Dickerson"
+  ],
+  "published": "2024-02-02",
+  "updated": "2025-02-03",
+  "journal_ref": null
+ },
+ "2408.14837": {
+  "title": "Diffusion Models Are Real-Time Game Engines",
+  "authors": [
+   "Dani Valevski",
+   "Yaniv Leviathan",
+   "Moab Arar",
+   "Shlomi Fruchter"
+  ],
+  "published": "2024-08-27",
+  "updated": "2025-04-24",
+  "journal_ref": null
+ },
+ "2304.15004": {
+  "title": "Are Emergent Abilities of Large Language Models a Mirage?",
+  "authors": [
+   "Rylan Schaeffer",
+   "Brando Miranda",
+   "Sanmi Koyejo"
+  ],
+  "published": "2023-04-28",
+  "updated": "2023-05-22",
+  "journal_ref": null
+ },
+ "2312.12044": {
+  "title": "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX",
+  "authors": [
+   "Alexander Nikulin",
+   "Vladislav Kurenkov",
+   "Ilya Zisman",
+   "Artem Agarkov",
+   "Viacheslav Sinii",
+   "Sergey Kolesnikov"
+  ],
+  "published": "2023-12-19",
+  "updated": "2024-11-19",
+  "journal_ref": null
+ },
+ "2310.11667": {
+  "title": "SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents",
+  "authors": [
+   "Xuhui Zhou",
+   "Hao Zhu",
+   "Leena Mathur",
+   "Ruohong Zhang",
+   "Haofei Yu",
+   "Zhengyang Qi",
+   "Louis-Philippe Morency",
+   "Yonatan Bisk",
+   "Daniel Fried",
+   "Graham Neubig",
+   "Maarten Sap"
+  ],
+  "published": "2023-10-18",
+  "updated": "2024-03-22",
+  "journal_ref": null
+ },
+ "2406.04268": {
+  "title": "Open-Endedness is Essential for Artificial Superhuman Intelligence",
+  "authors": [
+   "Edward Hughes",
+   "Michael Dennis",
+   "Jack Parker-Holder",
+   "Feryal Behbahani",
+   "Aditi Mavalankar",
+   "Yuge Shi",
+   "Tom Schaul",
+   "Tim Rocktaschel"
+  ],
+  "published": "2024-06-06",
+  "updated": "2024-06-06",
+  "journal_ref": null
+ },
+ "2408.08435": {
+  "title": "Automated Design of Agentic Systems",
+  "authors": [
+   "Shengran Hu",
+   "Cong Lu",
+   "Jeff Clune"
+  ],
+  "published": "2024-08-15",
+  "updated": "2025-03-02",
+  "journal_ref": null
+ },
+ "2306.09884": {
+  "title": "Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX",
+  "authors": [
+   "Cl\u00e9ment Bonnet",
+   "Daniel Luo",
+   "Donal Byrne",
+   "Shikha Surana",
+   "Sasha Abramowitz",
+   "Paul Duckworth",
+   "Vincent Coyette",
+   "Laurence I. Midgley",
+   "Elshadai Tegegn",
+   "Tristan Kalloniatis",
+   "Omayma Mahjoub",
+   "Matthew Macfarlane",
+   "Andries P. Smit",
+   "Nathan Grinsztajn",
+   "Raphael Boige",
+   "Cemlyn N. Waters",
+   "Mohamed A. Mimouni",
+   "Ulrich A. Mbou Sob",
+   "Ruan de Kock",
+   "Siddarth Singh",
+   "Daniel Furelos-Blanco",
+   "Victor Le",
+   "Arnu Pretorius",
+   "Alexandre Laterre"
+  ],
+  "published": "2023-06-16",
+  "updated": "2024-03-16",
+  "journal_ref": null
+ },
+ "2303.03376": {
+  "title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+  "authors": [
+   "Mikayel Samvelyan",
+   "Akbir Khan",
+   "Michael Dennis",
+   "Minqi Jiang",
+   "Jack Parker-Holder",
+   "Jakob Foerster",
+   "Roberta Raileanu",
+   "Tim Rockt\u00e4schel"
+  ],
+  "published": "2023-03-06",
+  "updated": "2023-03-06",
+  "journal_ref": null
+ },
+ "2307.01862": {
+  "title": "Emergent Resource Exchange and Tolerated Theft Behavior using Multi-Agent Reinforcement Learning",
+  "authors": [
+   "Jack Garbus",
+   "Jordan Pollack"
+  ],
+  "published": "2023-07-04",
+  "updated": "2023-07-04",
+  "journal_ref": null
+ },
+ "2402.17753": {
+  "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+  "authors": [
+   "Adyasha Maharana",
+   "Dong-Ho Lee",
+   "Sergey Tulyakov",
+   "Mohit Bansal",
+   "Francesco Barbieri",
+   "Yuwei Fang"
+  ],
+  "published": "2024-02-27",
+  "updated": "2024-02-27",
+  "journal_ref": null
+ },
+ "2402.15391": {
+  "title": "Genie: Generative Interactive Environments",
+  "authors": [
+   "Jake Bruce",
+   "Michael Dennis",
+   "Ashley Edwards",
+   "Jack Parker-Holder",
+   "Yuge Shi",
+   "Edward Hughes",
+   "Matthew Lai",
+   "Aditi Mavalankar",
+   "Richie Steigerwald",
+   "Chris Apps",
+   "Yusuf Aytar",
+   "Sarah Bechtle",
+   "Feryal Behbahani",
+   "Stephanie Chan",
+   "Nicolas Heess",
+   "Lucy Gonzalez",
+   "Simon Osindero",
+   "Sherjil Ozair",
+   "Scott Reed",
+   "Jingwei Zhang",
+   "Konrad Zolna",
+   "Jeff Clune",
+   "Nando de Freitas",
+   "Satinder Singh",
+   "Tim Rockt\u00e4schel"
+  ],
+  "published": "2024-02-23",
+  "updated": "2024-02-23",
+  "journal_ref": null
+ },
+ "2406.19108": {
+  "title": "Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction",
+  "authors": [
+   "Blaise Ag\u00fcera y Arcas",
+   "Jyrki Alakuijala",
+   "James Evans",
+   "Ben Laurie",
+   "Alexander Mordvintsev",
+   "Eyvind Niklasson",
+   "Ettore Randazzo",
+   "Luca Versari"
+  ],
+  "published": "2024-06-27",
+  "updated": "2024-08-02",
+  "journal_ref": null
+ },
+ "2410.04444": {
+  "title": "G\u00f6del Agent: A Self-Referential Agent Framework for Recursive Self-Improvement",
+  "authors": [
+   "Xunjian Yin",
+   "Xinyi Wang",
+   "Liangming Pan",
+   "Li Lin",
+   "Xiaojun Wan",
+   "William Yang Wang"
+  ],
+  "published": "2024-10-06",
+  "updated": "2025-05-31",
+  "journal_ref": null
+ },
+ "2409.10568": {
+  "title": "On the limits of agency in agent-based models",
+  "authors": [
+   "Ayush Chopra",
+   "Shashank Kumar",
+   "Nurullah Giray-Kuru",
+   "Ramesh Raskar",
+   "Arnau Quera-Bofarull"
+  ],
+  "published": "2024-09-14",
+  "updated": "2024-11-10",
+  "journal_ref": null
+ },
+ "2402.10236": {
+  "title": "Discovering Sensorimotor Agency in Cellular Automata using Diversity Search",
+  "authors": [
+   "Gautier Hamon",
+   "Mayalen Etcheverry",
+   "Bert Wang-Chak Chan",
+   "Cl\u00e9ment Moulin-Frier",
+   "Pierre-Yves Oudeyer"
+  ],
+  "published": "2024-02-14",
+  "updated": "2024-02-14",
+  "journal_ref": "Sci. Adv. 11 (44), eadp0834, (2025)"
+ },
+ "2411.00114": {
+  "title": "Project Sid: Many-agent simulations toward AI civilization",
+  "authors": [
+   "Altera. AL",
+   "Andrew Ahn",
+   "Nic Becker",
+   "Stephanie Carroll",
+   "Nico Christie",
+   "Manuel Cortes",
+   "Arda Demirci",
+   "Melissa Du",
+   "Frankie Li",
+   "Shuying Luo",
+   "Peter Y Wang",
+   "Mathew Willows",
+   "Feitong Yang",
+   "Guangyu Robert Yang"
+  ],
+  "published": "2024-10-31",
+  "updated": "2024-10-31",
+  "journal_ref": null
+ },
+ "2504.19413": {
+  "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+  "authors": [
+   "Prateek Chhikara",
+   "Dev Khant",
+   "Saket Aryan",
+   "Taranjeet Singh",
+   "Deshraj Yadav"
+  ],
+  "published": "2025-04-28",
+  "updated": "2025-04-28",
+  "journal_ref": null
+ },
+ "2502.14143": {
+  "title": "Multi-Agent Risks from Advanced AI",
+  "authors": [
+   "Lewis Hammond",
+   "Alan Chan",
+   "Jesse Clifton",
+   "Jason Hoelscher-Obermaier",
+   "Akbir Khan",
+   "Euan McLean",
+   "Chandler Smith",
+   "Wolfram Barfuss",
+   "Jakob Foerster",
+   "Tom\u00e1\u0161 Gaven\u010diak",
+   "The Anh Han",
+   "Edward Hughes",
+   "Vojt\u011bch Kova\u0159\u00edk",
+   "Jan Kulveit",
+   "Joel Z. Leibo",
+   "Caspar Oesterheld",
+   "Christian Schroeder de Witt",
+   "Nisarg Shah",
+   "Michael Wellman",
+   "Paolo Bova",
+   "Theodor Cimpeanu",
+   "Carson Ezell",
+   "Quentin Feuillade-Montixi",
+   "Matija Franklin",
+   "Esben Kran",
+   "Igor Krawczuk",
+   "Max Lamparth",
+   "Niklas Lauffer",
+   "Alexander Meinke",
+   "Sumeet Motwani",
+   "Anka Reuel",
+   "Vincent Conitzer",
+   "Michael Dennis",
+   "Iason Gabriel",
+   "Adam Gleave",
+   "Gillian Hadfield",
+   "Nika Haghtalab",
+   "Atoosa Kasirzadeh",
+   "S\u00e9bastien Krier",
+   "Kate Larson",
+   "Joel Lehman",
+   "David C. Parkes",
+   "Georgios Piliouras",
+   "Iyad Rahwan"
+  ],
+  "published": "2025-02-19",
+  "updated": "2025-02-19",
+  "journal_ref": null
+ },
+ "2410.10813": {
+  "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+  "authors": [
+   "Di Wu",
+   "Hongwei Wang",
+   "Wenhao Yu",
+   "Yuwei Zhang",
+   "Kai-Wei Chang",
+   "Dong Yu"
+  ],
+  "published": "2024-10-14",
+  "updated": "2025-03-04",
+  "journal_ref": null
+ },
+ "2504.15228": {
+  "title": "A Self-Improving Coding Agent",
+  "authors": [
+   "Maxime Robeyns",
+   "Martin Szummer",
+   "Laurence Aitchison"
+  ],
+  "published": "2025-04-21",
+  "updated": "2025-05-16",
+  "journal_ref": null
+ },
+ "2508.06950": {
+  "title": "Large Language Models Do Not Simulate Human Psychology",
+  "authors": [
+   "Sarah Schr\u00f6der",
+   "Thekla Morgenroth",
+   "Ulrike Kuhl",
+   "Valerie Vaquet",
+   "Benjamin Paa\u00dfen"
+  ],
+  "published": "2025-08-09",
+  "updated": "2025-08-13",
+  "journal_ref": null
+ },
+ "2505.18347": {
+  "title": "The Cell Must Go On: Agar.io for Continual Reinforcement Learning",
+  "authors": [
+   "Mohamed A. Mohamed",
+   "Kateryna Nekhomiazh",
+   "Vedant Vyas",
+   "Marcos M. Jose",
+   "Andrew Patterson",
+   "Marlos C. Machado"
+  ],
+  "published": "2025-05-23",
+  "updated": "2026-08-08",
+  "journal_ref": null
+ },
+ "2411.11581": {
+  "title": "OASIS: Open Agent Social Interaction Simulations with One Million Agents",
+  "authors": [
+   "Ziyi Yang",
+   "Zaibin Zhang",
+   "Zirui Zheng",
+   "Yuxian Jiang",
+   "Ziyue Gan",
+   "Zhiyu Wang",
+   "Zijian Ling",
+   "Jinsong Chen",
+   "Martz Ma",
+   "Bowen Dong",
+   "Prateek Gupta",
+   "Shuyue Hu",
+   "Zhenfei Yin",
+   "Guohao Li",
+   "Xu Jia",
+   "Lijun Wang",
+   "Bernard Ghanem",
+   "Huchuan Lu",
+   "Chaochao Lu",
+   "Wanli Ouyang",
+   "Yu Qiao",
+   "Philip Torr",
+   "Jing Shao"
+  ],
+  "published": "2024-11-18",
+  "updated": "2025-03-23",
+  "journal_ref": null
+ },
+ "2411.07279": {
+  "title": "The Surprising Effectiveness of Test-Time Training for Few-Shot Learning",
+  "authors": [
+   "Ekin Aky\u00fcrek",
+   "Mehul Damani",
+   "Adam Zweiger",
+   "Linlu Qiu",
+   "Han Guo",
+   "Jyothish Pari",
+   "Yoon Kim",
+   "Jacob Andreas"
+  ],
+  "published": "2024-11-11",
+  "updated": "2025-03-25",
+  "journal_ref": null
+ },
+ "2508.12524": {
+  "title": "Results of the NeurIPS 2023 Neural MMO Competition on Multi-task Reinforcement Learning",
+  "authors": [
+   "Joseph Su\u00e1rez",
+   "Kyoung Whan Choe",
+   "David Bloomin",
+   "Jianming Gao",
+   "Yunkun Li",
+   "Yao Feng",
+   "Saidinesh Pola",
+   "Kun Zhang",
+   "Yonghui Zhu",
+   "Nikhil Pinnaparaju",
+   "Hao Xiang Li",
+   "Nishaanth Kanna",
+   "Daniel Scott",
+   "Ryan Sullivan",
+   "Rose S. Shuman",
+   "Lucas de Alc\u00e2ntara",
+   "Herbie Bradley",
+   "Kirsty You",
+   "Bo Wu",
+   "Yuhao Jiang",
+   "Qimai Li",
+   "Jiaxin Chen",
+   "Louis Castricato",
+   "Xiaolong Zhu",
+   "Phillip Isola"
+  ],
+  "published": "2025-08-17",
+  "updated": "2025-08-17",
+  "journal_ref": null
+ },
+ "2506.13131": {
+  "title": "AlphaEvolve: A coding agent for scientific and algorithmic discovery",
+  "authors": [
+   "Alexander Novikov",
+   "Ng\u00e2n V\u0169",
+   "Marvin Eisenberger",
+   "Emilien Dupont",
+   "Po-Sen Huang",
+   "Adam Zsolt Wagner",
+   "Sergey Shirobokov",
+   "Borislav Kozlovskii",
+   "Francisco J. R. Ruiz",
+   "Abbas Mehrabian",
+   "M. Pawan Kumar",
+   "Abigail See",
+   "Swarat Chaudhuri",
+   "George Holland",
+   "Alex Davies",
+   "Sebastian Nowozin",
+   "Pushmeet Kohli",
+   "Matej Balog"
+  ],
+  "published": "2025-06-16",
+  "updated": "2025-06-16",
+  "journal_ref": null
+ },
+ "2412.17799": {
+  "title": "Automating the Search for Artificial Life with Foundation Models",
+  "authors": [
+   "Akarsh Kumar",
+   "Chris Lu",
+   "Louis Kirsch",
+   "Yujin Tang",
+   "Kenneth O. Stanley",
+   "Phillip Isola",
+   "David Ha"
+  ],
+  "published": "2024-12-23",
+  "updated": "2025-05-16",
+  "journal_ref": null
+ },
+ "2501.00663": {
+  "title": "Titans: Learning to Memorize at Test Time",
+  "authors": [
+   "Ali Behrouz",
+   "Peilin Zhong",
+   "Vahab Mirrokni"
+  ],
+  "published": "2024-12-31",
+  "updated": "2024-12-31",
+  "journal_ref": null
+ },
+ "2411.00986": {
+  "title": "Taking AI Welfare Seriously",
+  "authors": [
+   "Robert Long",
+   "Jeff Sebo",
+   "Patrick Butlin",
+   "Kathleen Finlinson",
+   "Kyle Fish",
+   "Jacqueline Harding",
+   "Jacob Pfau",
+   "Toni Sims",
+   "Jonathan Birch",
+   "David Chalmers"
+  ],
+  "published": "2024-11-04",
+  "updated": "2024-11-04",
+  "journal_ref": null
+ },
+ "2505.22954": {
+  "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+  "authors": [
+   "Jenny Zhang",
+   "Shengran Hu",
+   "Cong Lu",
+   "Robert Lange",
+   "Jeff Clune"
+  ],
+  "published": "2025-05-29",
+  "updated": "2026-03-12",
+  "journal_ref": null
+ },
+ "2410.08948": {
+  "title": "Emergent social conventions and collective bias in LLM populations",
+  "authors": [
+   "Ariel Flint Ashery",
+   "Luca Maria Aiello",
+   "Andrea Baronchelli"
+  ],
+  "published": "2024-10-11",
+  "updated": "2025-05-29",
+  "journal_ref": "Science Advances 11, eadu9368 (2025)"
+ },
+ "2502.07577": {
+  "title": "Automated Capability Discovery via Foundation Model Self-Exploration",
+  "authors": [
+   "Cong Lu",
+   "Shengran Hu",
+   "Jeff Clune"
+  ],
+  "published": "2025-02-11",
+  "updated": "2025-06-09",
+  "journal_ref": null
+ },
+ "2506.10943": {
+  "title": "Self-Adapting Language Models",
+  "authors": [
+   "Adam Zweiger",
+   "Jyothish Pari",
+   "Han Guo",
+   "Ekin Aky\u00fcrek",
+   "Yoon Kim",
+   "Pulkit Agrawal"
+  ],
+  "published": "2025-06-12",
+  "updated": "2025-09-18",
+  "journal_ref": null
+ },
+ "2411.10109": {
+  "title": "LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals",
+  "authors": [
+   "Joon Sung Park",
+   "Carolyn Q. Zou",
+   "Jonne Kamphorst",
+   "Niles Egan",
+   "Aaron Shaw",
+   "Benjamin Mako Hill",
+   "Carrie Cai",
+   "Meredith Ringel Morris",
+   "Percy Liang",
+   "Robb Willer",
+   "Michael S. Bernstein"
+  ],
+  "published": "2024-11-15",
+  "updated": "2026-06-28",
+  "journal_ref": null
+ },
+ "2502.03349": {
+  "title": "Robust Autonomy Emerges from Self-Play",
+  "authors": [
+   "Marco Cusumano-Towner",
+   "David Hafner",
+   "Alex Hertzberg",
+   "Brody Huval",
+   "Aleksei Petrenko",
+   "Eugene Vinitsky",
+   "Erik Wijmans",
+   "Taylor Killian",
+   "Stuart Bowers",
+   "Ozan Sener",
+   "Philipp Kr\u00e4henb\u00fchl",
+   "Vladlen Koltun"
+  ],
+  "published": "2025-02-05",
+  "updated": "2025-02-05",
+  "journal_ref": null
+ },
+ "2506.12078": {
+  "title": "Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+  "authors": [
+   "Haoxiang Guan",
+   "Jiyan He",
+   "Liyang Fan",
+   "Zhenzhen Ren",
+   "Shaobin He",
+   "Xin Yu",
+   "Yuan Chen",
+   "Xueyin Xu",
+   "Shuxin Zheng",
+   "Yan Gao",
+   "Enhong Chen",
+   "Tie-Yan Liu",
+   "Zhen Liu"
+  ],
+  "published": "2025-06-07",
+  "updated": "2026-06-28",
+  "journal_ref": null
+ },
+ "2507.18074": {
+  "title": "Neural Architecture Discovery via Autonomous Evolution",
+  "authors": [
+   "Weixian Xu",
+   "Yixiu Liu",
+   "Yang Nan",
+   "Lyumanshan Ye",
+   "Xiangkun Hu",
+   "Zhen Qin",
+   "Pengfei Liu"
+  ],
+  "published": "2025-07-24",
+  "updated": "2026-10-08",
+  "journal_ref": null
+ },
+ "2501.13956": {
+  "title": "Zep: A Temporal Knowledge Graph Architecture for Agent Memory",
+  "authors": [
+   "Preston Rasmussen",
+   "Pavlo Paliychuk",
+   "Travis Beauvais",
+   "Jack Ryan",
+   "Daniel Chalef"
+  ],
+  "published": "2025-01-20",
+  "updated": "2025-01-20",
+  "journal_ref": null
+ },
+ "2504.13171": {
+  "title": "Sleep-time Compute: Beyond Inference Scaling at Test-time",
+  "authors": [
+   "Kevin Lin",
+   "Charlie Snell",
+   "Yu Wang",
+   "Charles Packer",
+   "Sarah Wooders",
+   "Ion Stoica",
+   "Joseph E. Gonzalez"
+  ],
+  "published": "2025-04-17",
+  "updated": "2025-04-17",
+  "journal_ref": null
+ },
+ "2504.17950": {
+  "title": "Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning",
+  "authors": [
+   "Isadora White",
+   "Kolby Nottingham",
+   "Ayush Maniar",
+   "Max Robinson",
+   "Hansen Lillemark",
+   "Mehul Maheshwari",
+   "Lianhui Qin",
+   "Prithviraj Ammanabrolu"
+  ],
+  "published": "2025-04-24",
+  "updated": "2025-04-24",
+  "journal_ref": null
+ },
+ "2507.02919": {
+  "title": "ChatGPT is not A Man but Das Man: Representativeness and Structural Consistency of Silicon Samples Generated by Large Language Models",
+  "authors": [
+   "Dai Li",
+   "Linzhuo Li",
+   "Huilian Sophie Qiu"
+  ],
+  "published": "2025-06-25",
+  "updated": "2025-06-25",
+  "journal_ref": null
+ },
+ "2506.09985": {
+  "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+  "authors": [
+   "Mido Assran",
+   "Adrien Bardes",
+   "David Fan",
+   "Quentin Garrido",
+   "Russell Howes",
+   " Mojtaba",
+   " Komeili",
+   "Matthew Muckley",
+   "Ammar Rizvi",
+   "Claire Roberts",
+   "Koustuv Sinha",
+   "Artem Zholus",
+   "Sergio Arnaud",
+   "Abha Gejji",
+   "Ada Martin",
+   "Francois Robert Hogan",
+   "Daniel Dugas",
+   "Piotr Bojanowski",
+   "Vasil Khalidov",
+   "Patrick Labatut",
+   "Francisco Massa",
+   "Marc Szafraniec",
+   "Kapil Krishnakumar",
+   "Yong Li",
+   "Xiaodong Ma",
+   "Sarath Chandar",
+   "Franziska Meier",
+   "Yann LeCun",
+   "Michael Rabbat",
+   "Nicolas Ballas"
+  ],
+  "published": "2025-06-11",
+  "updated": "2025-06-11",
+  "journal_ref": null
+ },
+ "2506.24119": {
+  "title": "SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning",
+  "authors": [
+   "Bo Liu",
+   "Leon Guertler",
+   "Simon Yu",
+   "Zichen Liu",
+   "Penghui Qi",
+   "Daniel Balcells",
+   "Mickel Liu",
+   "Cheston Tan",
+   "Weiyan Shi",
+   "Min Lin",
+   "Wee Sun Lee",
+   "Natasha Jaques"
+  ],
+  "published": "2025-06-30",
+  "updated": "2026-03-02",
+  "journal_ref": null
+ },
+ "2502.08691": {
+  "title": "AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society",
+  "authors": [
+   "Jinghua Piao",
+   "Yuwei Yan",
+   "Jun Zhang",
+   "Nian Li",
+   "Junbo Yan",
+   "Xiaochong Lan",
+   "Zhihong Lu",
+   "Zhiheng Zheng",
+   "Jing Yi Wang",
+   "Di Zhou",
+   "Chen Gao",
+   "Fengli Xu",
+   "Fang Zhang",
+   "Ke Rong",
+   "Jun Su",
+   "Yong Li"
+  ],
+  "published": "2025-02-12",
+  "updated": "2026-04-10",
+  "journal_ref": null
+ },
+ "2502.04512": {
+  "title": "Safety Must Precede the Deployment of Open-Ended AI",
+  "authors": [
+   "Ivaxi Sheth",
+   "Jan Wehner",
+   "Sahar Abdelnabi",
+   "Ruta Binkyte",
+   "Mario Fritz"
+  ],
+  "published": "2025-02-06",
+  "updated": "2026-06-01",
+  "journal_ref": null
+ },
+ "2506.14990": {
+  "title": "MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning",
+  "authors": [
+   "Tristan Tomilin",
+   "Luka van den Boogaard",
+   "Samuel Garcin",
+   "Constantin Ruhdorfer",
+   "Bram Grooten",
+   "Fabrice Kusters",
+   "Yali Du",
+   "Andreas Bulling",
+   "Mykola Pechenizkiy",
+   "Meng Fang"
+  ],
+  "published": "2025-06-17",
+  "updated": "2026-06-18",
+  "journal_ref": null
+ },
+ "2410.14606": {
+  "title": "Streaming Deep Reinforcement Learning Finally Works",
+  "authors": [
+   "Mohamed Elsayed",
+   "Elena Sorina Lupu",
+   "Gautham Vasan",
+   "A. Rupam Mahmood"
+  ],
+  "published": "2024-10-18",
+  "updated": "2026-09-21",
+  "journal_ref": null
+ },
+ "2506.13242": {
+  "title": "A non-commutative algorithm for multiplying 4x4 matrices using 48 non-complex multiplications",
+  "authors": [
+   "Jean-Guillaume Dumas",
+   "Cl\u00e9ment Pernet",
+   "Alexandre Sedoglavic"
+  ],
+  "published": "2025-06-16",
+  "updated": "2026-07-27",
+  "journal_ref": null
+ },
+ "2504.13837": {
+  "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+  "authors": [
+   "Yang Yue",
+   "Zhiqi Chen",
+   "Rui Lu",
+   "Andrew Zhao",
+   "Zhaokai Wang",
+   "Yang Yue",
+   "Shiji Song",
+   "Gao Huang"
+  ],
+  "published": "2025-04-18",
+  "updated": "2025-11-24",
+  "journal_ref": "NeurIPS 2025 Oral; ICML 2025 AI4MATH workshop best paper"
+ },
+ "2502.12110": {
+  "title": "A-MEM: Agentic Memory for LLM Agents",
+  "authors": [
+   "Wujiang Xu",
+   "Zujie Liang",
+   "Kai Mei",
+   "Hang Gao",
+   "Juntao Tan",
+   "Yongfeng Zhang"
+  ],
+  "published": "2025-02-17",
+  "updated": "2025-10-08",
+  "journal_ref": null
+ },
+ "2505.03335": {
+  "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
+  "authors": [
+   "Andrew Zhao",
+   "Yiran Wu",
+   "Yang Yue",
+   "Tong Wu",
+   "Quentin Xu",
+   "Yang Yue",
+   "Matthieu Lin",
+   "Shenzhi Wang",
+   "Qingyun Wu",
+   "Zilong Zheng",
+   "Gao Huang"
+  ],
+  "published": "2025-05-06",
+  "updated": "2025-10-16",
+  "journal_ref": null
+ },
+ "2504.02234": {
+  "title": "LLM Social Simulations Are a Promising Research Method",
+  "authors": [
+   "Jacy Reese Anthis",
+   "Ryan Liu",
+   "Sean M. Richardson",
+   "Austin C. Kozlowski",
+   "Bernard Koch",
+   "James Evans",
+   "Erik Brynjolfsson",
+   "Michael Bernstein"
+  ],
+  "published": "2025-04-03",
+  "updated": "2025-06-05",
+  "journal_ref": null
+ },
+ "2506.08569": {
+  "title": "Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata",
+  "authors": [
+   "Erwan Plantec",
+   "Gautier Hamon",
+   "Mayalen Etcheverry",
+   "Bert Wang-Chak Chan",
+   "Pierre-Yves Oudeyer",
+   "Cl\u00e9ment Moulin-Frier"
+  ],
+  "published": "2025-06-10",
+  "updated": "2025-06-10",
+  "journal_ref": "Artificial Life (2025) 31(2): 228-248"
+ },
+ "2410.23208": {
+  "title": "Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks",
+  "authors": [
+   "Michael Matthews",
+   "Michael Beukman",
+   "Chris Lu",
+   "Jakob Foerster"
+  ],
+  "published": "2024-10-30",
+  "updated": "2025-03-03",
+  "journal_ref": null
+ },
+ "2503.17821": {
+  "title": "OvercookedV2: Rethinking Overcooked for Zero-Shot Coordination",
+  "authors": [
+   "Tobias Gessler",
+   "Tin Dizdarevic",
+   "Ani Calinescu",
+   "Benjamin Ellis",
+   "Andrei Lupu",
+   "Jakob Nicolaus Foerster"
+  ],
+  "published": "2025-03-22",
+  "updated": "2025-03-22",
+  "journal_ref": null
+ },
+ "2606.05661": {
+  "title": "Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments",
+  "authors": [
+   "Parth Asawa",
+   "Christopher M. Glaze",
+   "Gabriel Orlanski",
+   "Ramya Ramakrishnan",
+   "Benji Xu",
+   "Asim Biswal",
+   "Vincent Sunn Chen",
+   "Frederic Sala",
+   "Matei Zaharia",
+   "Joseph E. Gonzalez"
+  ],
+  "published": "2026-06-04",
+  "updated": "2026-06-04",
+  "journal_ref": null
+ },
+ "2509.10147": {
+  "title": "Virtual Agent Economies",
+  "authors": [
+   "Nenad Tomasev",
+   "Matija Franklin",
+   "Joel Z. Leibo",
+   "Julian Jacobs",
+   "William A. Cunningham",
+   "Iason Gabriel",
+   "Simon Osindero"
+  ],
+  "published": "2025-09-12",
+  "updated": "2025-09-12",
+  "journal_ref": null
+ },
+ "2509.18057": {
+  "title": "Reinforced Generation of Combinatorial Structures: Hardness of Approximation",
+  "authors": [
+   "Ansh Nagda",
+   "Prabhakar Raghavan",
+   "Abhradeep Thakurta"
+  ],
+  "published": "2025-09-22",
+  "updated": "2026-03-09",
+  "journal_ref": null
+ },
+ "2602.20059": {
+  "title": "Interaction Theater: A case of LLM Agents Interacting at Scale",
+  "authors": [
+   "Sarath Shekkizhar",
+   "Adam Earle"
+  ],
+  "published": "2026-02-23",
+  "updated": "2026-02-23",
+  "journal_ref": null
+ },
+ "2603.09172": {
+  "title": "Reinforced Generation of Combinatorial Structures: Ramsey Numbers",
+  "authors": [
+   "Ansh Nagda",
+   "Prabhakar Raghavan",
+   "Abhradeep Thakurta"
+  ],
+  "published": "2026-03-10",
+  "updated": "2026-04-21",
+  "journal_ref": null
+ },
+ "2605.01131": {
+  "title": "Forager: a lightweight testbed for continual learning with partial observability in RL",
+  "authors": [
+   "Steven Tang",
+   "Xinze Xiong",
+   "Anna Hakhverdyan",
+   "Andrew Patterson",
+   "Jacob Adkins",
+   "Jiamin He",
+   "Esraa Elelimy",
+   "Parham Mohammad Panahi",
+   "Martha White",
+   "Adam White"
+  ],
+  "published": "2026-05-01",
+  "updated": "2026-05-01",
+  "journal_ref": null
+ },
+ "2509.06235": {
+  "title": "PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments",
+  "authors": [
+   "Olivier Schipper",
+   "Yudi Zhang",
+   "Yali Du",
+   "Mykola Pechenizkiy",
+   "Meng Fang"
+  ],
+  "published": "2025-09-07",
+  "updated": "2025-09-07",
+  "journal_ref": "2025 IEEE Conference on Games (CoG), Lisbon, Portugal, 2025, pp. 1-15"
+ },
+ "2510.25779": {
+  "title": "Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets",
+  "authors": [
+   "Gagan Bansal",
+   "Wenyue Hua",
+   "Zezhou Huang",
+   "Adam Fourney",
+   "Amanda Swearngin",
+   "Will Epperson",
+   "Tyler Payne",
+   "Jake M. Hofman",
+   "Brendan Lucier",
+   "Chinmay Singh",
+   "Markus Mobius",
+   "Akshay Nambi",
+   "Archana Yadav",
+   "Kevin Gao",
+   "David M. Rothschild",
+   "Aleksandrs Slivkins",
+   "Daniel G. Goldstein",
+   "Hussein Mozannar",
+   "Nicole Immorlica",
+   "Maya Murad",
+   "Matthew Vogel",
+   "Subbarao Kambhampati",
+   "Eric Horvitz",
+   "Saleema Amershi"
+  ],
+  "published": "2025-10-27",
+  "updated": "2025-10-27",
+  "journal_ref": null
+ },
+ "2606.04029": {
+  "title": "Position: Deployed Reinforcement Learning should be Continual",
+  "authors": [
+   "Parnian Behdin",
+   "Kevin Roice",
+   "Golnaz Mesbahi"
+  ],
+  "published": "2026-06-01",
+  "updated": "2026-06-06",
+  "journal_ref": null
+ },
+ "2601.20540": {
+  "title": "Advancing Open-source World Models",
+  "authors": [
+   " Robbyant Team",
+   "Zelin Gao",
+   "Qiuyu Wang",
+   "Yanhong Zeng",
+   "Jiapeng Zhu",
+   "Ka Leong Cheng",
+   "Yixuan Li",
+   "Hanlin Wang",
+   "Yinghao Xu",
+   "Shuailei Ma",
+   "Yihang Chen",
+   "Jie Liu",
+   "Yansong Cheng",
+   "Yao Yao",
+   "Jiayi Zhu",
+   "Yihao Meng",
+   "Kecheng Zheng",
+   "Qingyan Bai",
+   "Jingye Chen",
+   "Zehong Shen",
+   "Yue Yu",
+   "Xing Zhu",
+   "Yujun Shen",
+   "Hao Ouyang"
+  ],
+  "published": "2026-01-28",
+  "updated": "2026-01-28",
+  "journal_ref": null
+ },
+ "2512.23675": {
+  "title": "End-to-End Test-Time Training for Long Context",
+  "authors": [
+   "Arnuv Tandon",
+   "Karan Dalal",
+   "Xinhao Li",
+   "Daniel Koceja",
+   "Marcel R\u00f8d",
+   "Sam Buchanan",
+   "Xiaolong Wang",
+   "Jure Leskovec",
+   "Sanmi Koyejo",
+   "Tatsunori Hashimoto",
+   "Carlos Guestrin",
+   "Jed McCaleb",
+   "Yejin Choi",
+   "Yu Sun"
+  ],
+  "published": "2025-12-29",
+  "updated": "2025-12-31",
+  "journal_ref": null
+ },
+ "2606.04536": {
+  "title": "Scaling Self-Evolving Agents via Parametric Memory",
+  "authors": [
+   "Tao Ren",
+   "Weiyao Luo",
+   "Hui Yang",
+   "Rongzhi Zhu",
+   "Xiang Huang",
+   "Yuchuan Wu",
+   "Bingxue Chou",
+   "Jieping Ye",
+   "Jiafeng Liang",
+   "Yongbin Li",
+   "Yijie Peng"
+  ],
+  "published": "2026-06-03",
+  "updated": "2026-06-03",
+  "journal_ref": null
+ },
+ "2605.18421": {
+  "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
+  "authors": [
+   "Yuyao Wang",
+   "Zhongjian Zhang",
+   "Mo Chi",
+   "Kaichi Yu",
+   "Yuhan Li",
+   "Miao Peng",
+   "Bing Tong",
+   "Chen Zhang",
+   "Yan Zhou",
+   "Jia Li"
+  ],
+  "published": "2026-05-18",
+  "updated": "2026-06-15",
+  "journal_ref": null
+ },
+ "2606.00133": {
+  "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+  "authors": [
+   "Arif Hassan Zidan",
+   "Yi Pan",
+   "Hanqi Jiang",
+   "Ruiyu Yan",
+   "Wei Ruan",
+   "Zihao Wu",
+   "Lifeng Chen",
+   "Weihang You",
+   "Xinliang Li",
+   "Bowen Chen",
+   "Huawen Hu",
+   "Peilong Wang",
+   "Sizhuang Liu",
+   "Jing Zhang",
+   "Siyuan Li",
+   "Zhengliang Liu",
+   "Yu Bao",
+   "Lin Zhao",
+   "Lichao Sun",
+   "Dajiang Zhu",
+   "Xiang Li",
+   "Jinglei Lv",
+   "Quanzheng Li",
+   "Wei Liu",
+   "Tianming Liu",
+   "Wei Zhang"
+  ],
+  "published": "2026-05-28",
+  "updated": "2026-05-28",
+  "journal_ref": null
+ },
+ "2601.01931": {
+  "title": "D\u00e9j\u00e0Q: Open-Ended Evolution of Diverse, Learnable and Verifiable Problems",
+  "authors": [
+   "Willem R\u00f6pke",
+   "Samuel Coward",
+   "Andrei Lupu",
+   "Thomas Foster",
+   "Tim Rockt\u00e4schel",
+   "Jakob Foerster"
+  ],
+  "published": "2026-01-05",
+  "updated": "2026-01-05",
+  "journal_ref": null
+ },
+ "2512.04797": {
+  "title": "SIMA 2: A Generalist Embodied Agent for Virtual Worlds",
+  "authors": [
+   " SIMA team",
+   "Adrian Bolton",
+   "Alexander Lerchner",
+   "Alexandra Cordell",
+   "Alexandre Moufarek",
+   "Andrew Bolt",
+   "Andrew Lampinen",
+   "Anna Mitenkova",
+   "Arne Olav Hallingstad",
+   "Bojan Vujatovic",
+   "Bonnie Li",
+   "Cong Lu",
+   "Daan Wierstra",
+   "Daniel P. Sawyer",
+   "Daniel Slater",
+   "David Reichert",
+   "Davide Vercelli",
+   "Demis Hassabis",
+   "Drew A. Hudson",
+   "Duncan Williams",
+   "Ed Hirst",
+   "Fabio Pardo",
+   "Felix Hill",
+   "Frederic Besse",
+   "Hannah Openshaw",
+   "Harris Chan",
+   "Hubert Soyer",
+   "Jane X. Wang",
+   "Jeff Clune",
+   "John Agapiou",
+   "John Reid",
+   "Joseph Marino",
+   "Junkyung Kim",
+   "Karol Gregor",
+   "Kaustubh Sridhar",
+   "Kay McKinney",
+   "Laura Kampis",
+   "Lei M. Zhang",
+   "Loic Matthey",
+   "Luyu Wang",
+   "Maria Abi Raad",
+   "Maria Loks-Thompson",
+   "Martin Engelcke",
+   "Matija Kecman",
+   "Matthew Jackson",
+   "Maxime Gazeau",
+   "Ollie Purkiss",
+   "Oscar Knagg",
+   "Peter Stys",
+   "Piermaria Mendolicchio",
+   "Raia Hadsell",
+   "Rosemary Ke",
+   "Ryan Faulkner",
+   "Sarah Chakera",
+   "Satinder Singh Baveja",
+   "Shane Legg",
+   "Sheleem Kashem",
+   "Tayfun Terzi",
+   "Thomas Keck",
+   "Tim Harley",
+   "Tim Scholtes",
+   "Tyson Roberts",
+   "Volodymyr Mnih",
+   "Yulan Liu",
+   "Zhengdong Wang",
+   "Zoubin Ghahramani"
+  ],
+  "published": "2025-12-04",
+  "updated": "2025-12-04",
+  "journal_ref": null
+ },
+ "2509.04259": {
+  "title": "RL's Razor: Why Online Reinforcement Learning Forgets Less",
+  "authors": [
+   "Idan Shenfeld",
+   "Jyothish Pari",
+   "Pulkit Agrawal"
+  ],
+  "published": "2025-09-04",
+  "updated": "2025-09-04",
+  "journal_ref": null
+ },
+ "2601.03192": {
+  "title": "MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory",
+  "authors": [
+   "Shengtao Zhang",
+   "Jiaqian Wang",
+   "Ruiwen Zhou",
+   "Junwei Liao",
+   "Yuchen Feng",
+   "Zhuo Li",
+   "Yujie Zheng",
+   "Weinan Zhang",
+   "Ying Wen",
+   "Zhiyu Li",
+   "Feiyu Xiong",
+   "Yutao Qi",
+   "Bo Tang",
+   "Muning Wen"
+  ],
+  "published": "2026-01-06",
+  "updated": "2026-02-12",
+  "journal_ref": null
+ },
+ "2510.04618": {
+  "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+  "authors": [
+   "Qizheng Zhang",
+   "Changran Hu",
+   "Shubhangi Upasani",
+   "Boyuan Ma",
+   "Fenglu Hong",
+   "Vamsidhar Kamanuru",
+   "Jay Rainton",
+   "Chen Wu",
+   "Mengmeng Ji",
+   "Hanchen Li",
+   "Urmish Thakker",
+   "James Zou",
+   "Kunle Olukotun"
+  ],
+  "published": "2025-10-06",
+  "updated": "2026-03-29",
+  "journal_ref": null
+ },
+ "2605.23908": {
+  "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+  "authors": [
+   "Sam Earle",
+   "Kai Arulkumaran",
+   "Andrew Dai",
+   "Akarsh Kumar",
+   "Julian Togelius",
+   "Sebastian Risi"
+  ],
+  "published": "2026-04-01",
+  "updated": "2026-05-27",
+  "journal_ref": "Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '26), July 13-17, 2026, San Jos\u00e9, Costa Rica. ACM, 2026"
+ },
+ "2603.19461": {
+  "title": "Hyperagents",
+  "authors": [
+   "Jenny Zhang",
+   "Bingchen Zhao",
+   "Wannan Yang",
+   "Jakob Foerster",
+   "Jeff Clune",
+   "Minqi Jiang",
+   "Sam Devlin",
+   "Tatiana Shavrina"
+  ],
+  "published": "2026-03-19",
+  "updated": "2026-03-19",
+  "journal_ref": null
+ },
+ "2606.31672": {
+  "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
+  "authors": [
+   "Ting-Bing Xu",
+   "Jiacheng Sui",
+   "Zhe Gao",
+   "Kewei Shi",
+   "Wenjin Yang",
+   "Zhicheng Liu",
+   "Zhaoxu Sun",
+   "Mingchao Sun",
+   "Hongyu Pan",
+   "Fan Jiang",
+   "Mu Xu",
+   "Qi Fan",
+   "Yang Gao",
+   "Yong Li",
+   "Baoquan Chen"
+  ],
+  "published": "2026-06-30",
+  "updated": "2026-09-18",
+  "journal_ref": null
+ },
+ "2606.08367": {
+  "title": "Emergence World: A Platform for Evaluating Long-Horizon Multi-Agent Autonomy",
+  "authors": [
+   "Deepak Akkil",
+   "Ravi Kokku",
+   "Karthik Vikram",
+   "Tamer Abuelsaad",
+   "Aditya Vempaty",
+   "Satya Nitta"
+  ],
+  "published": "2026-06-06",
+  "updated": "2026-06-06",
+  "journal_ref": null
+ },
+ "2603.18699": {
+  "title": "A more accurate rational non-commutative algorithm for multiplying 4x4 matrices using 48 multiplications",
+  "authors": [
+   "Jean-Guillaume Dumas",
+   "Cl\u00e9ment Pernet",
+   "Alexandre Sedoglavic"
+  ],
+  "published": "2026-03-19",
+  "updated": "2026-07-29",
+  "journal_ref": null
+ },
+ "2508.13009": {
+  "title": "Matrix-game 2.0: An open-source, real-time, and streaming interactive world model",
+  "authors": [
+   "Xianglong He",
+   "Chunli Peng",
+   "Zexiang Liu",
+   "Boyang Wang",
+   "Yifan Zhang",
+   "Qi Cui",
+   "Fei Kang",
+   "Biao Jiang",
+   "Mengyin An",
+   "Yangyang Ren",
+   "Baixin Xu",
+   "Hao-Xiang Guo",
+   "Kaixiong Gong",
+   "Size Wu",
+   "Wei Li",
+   "Xuchen Song",
+   "Yang Liu",
+   "Yangguang Li",
+   "Yahui Zhou"
+  ],
+  "published": "2025-08-18",
+  "updated": "2026-09-29",
+  "journal_ref": null
+ },
+ "2601.03335": {
+  "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+  "authors": [
+   "Akarsh Kumar",
+   "Ryan Bahlous-Boldi",
+   "Prafull Sharma",
+   "Phillip Isola",
+   "Sebastian Risi",
+   "Yujin Tang",
+   "David Ha"
+  ],
+  "published": "2026-01-06",
+  "updated": "2026-01-06",
+  "journal_ref": null
+ },
+ "2510.15103": {
+  "title": "Continual Learning via Sparse Memory Finetuning",
+  "authors": [
+   "Jessy Lin",
+   "Luke Zettlemoyer",
+   "Gargi Ghosh",
+   "Wen-Tau Yih",
+   "Aram Markosyan",
+   "Vincent-Pierre Berges",
+   "Barlas O\u011fuz"
+  ],
+  "published": "2025-10-16",
+  "updated": "2025-10-16",
+  "journal_ref": null
+ },
+ "2509.24527": {
+  "title": "Training Agents Inside of Scalable World Models",
+  "authors": [
+   "Danijar Hafner",
+   "Wilson Yan",
+   "Timothy Lillicrap"
+  ],
+  "published": "2025-09-29",
+  "updated": "2025-09-29",
+  "journal_ref": null
+ },
+ "2510.05179": {
+  "title": "Agentic Misalignment: How LLMs Could Be Insider Threats",
+  "authors": [
+   "Aengus Lynch",
+   "Benjamin Wright",
+   "Caleb Larson",
+   "Stuart J. Ritchie",
+   "Soren Mindermann",
+   "Evan Hubinger",
+   "Ethan Perez",
+   "Kevin Troy"
+  ],
+  "published": "2025-10-05",
+  "updated": "2025-10-16",
+  "journal_ref": null
+ },
+ "2604.01658": {
+  "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+  "authors": [
+   "Ao Qu",
+   "Han Zheng",
+   "Zijian Zhou",
+   "Yihao Yan",
+   "Yihong Tang",
+   "Shao Yong Ong",
+   "Fenglu Hong",
+   "Kaichen Zhou",
+   "Chonghe Jiang",
+   "Minwei Kong",
+   "Jiacheng Zhu",
+   "Xuan Jiang",
+   "Sirui Li",
+   "Cathy Wu",
+   "Bryan Kian Hsiang Low",
+   "Jinhua Zhao",
+   "Paul Pu Liang"
+  ],
+  "published": "2026-04-02",
+  "updated": "2026-09-02",
+  "journal_ref": null
+ },
+ "2602.08194": {
+  "title": "Dreaming in Code for Curriculum Learning in Open-Ended Worlds",
+  "authors": [
+   "Konstantinos Mitsides",
+   "Maxence Faldor",
+   "Antoine Cully"
+  ],
+  "published": "2026-02-09",
+  "updated": "2026-09-12",
+  "journal_ref": null
+ },
+ "2509.19088": {
+  "title": "Digital Twins as Funhouse Mirrors: Five Key Distortions",
+  "authors": [
+   "Tianyi Peng",
+   "George Gui",
+   "Melanie Brucks",
+   "Daniel J. Merlau",
+   "Grace Jiarui Fan",
+   "Malek Ben Sliman",
+   "Eric J. Johnson",
+   "Abdullah Althenayyan",
+   "Silvia Bellezza",
+   "Dante Donati",
+   "Hortense Fong",
+   "Elizabeth Friedman",
+   "Ariana Guevara",
+   "Mohamed Hussein",
+   "Kinshuk Jerath",
+   "Bruce Kogut",
+   "Akshit Kumar",
+   "Kristen Lane",
+   "Hannah Li",
+   "Vicki Morwitz",
+   "Oded Netzer",
+   "Patryk Perkowski",
+   "Olivier Toubia"
+  ],
+  "published": "2025-09-23",
+  "updated": "2026-04-19",
+  "journal_ref": null
+ },
+ "2607.07847": {
+  "title": "When Does Continual Learning Require Learning",
+  "authors": [
+   "Anne Harrington",
+   "Nayan Saxena",
+   "Michael Murphy",
+   "Anastasia Borovykh",
+   "Zeyu Yun",
+   "Sridhar Kamath",
+   "Ara Eindra Kyi",
+   "Trevor Darrell",
+   "Jitendra Malik",
+   "Yutong Bai"
+  ],
+  "published": "2026-07-08",
+  "updated": "2026-07-08",
+  "journal_ref": null
+ },
+ "2511.02864": {
+  "title": "Mathematical exploration and discovery at scale",
+  "authors": [
+   "Bogdan Georgiev",
+   "Javier G\u00f3mez-Serrano",
+   "Terence Tao",
+   "Adam Zsolt Wagner"
+  ],
+  "published": "2025-11-03",
+  "updated": "2025-12-22",
+  "journal_ref": null
+ },
+ "2601.19897": {
+  "title": "Self-Distillation Enables Continual Learning",
+  "authors": [
+   "Idan Shenfeld",
+   "Mehul Damani",
+   "Jonas H\u00fcbotter",
+   "Pulkit Agrawal"
+  ],
+  "published": "2026-01-27",
+  "updated": "2026-08-07",
+  "journal_ref": null
+ },
+ "2510.21614": {
+  "title": "Huxley-G\u00f6del Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine",
+  "authors": [
+   "Wenyi Wang",
+   "Piotr Pi\u0119kos",
+   "Li Nanbo",
+   "Firas Laakom",
+   "Yimeng Chen",
+   "Mateusz Ostaszewski",
+   "Mingchen Zhuge",
+   "J\u00fcrgen Schmidhuber"
+  ],
+  "published": "2025-10-24",
+  "updated": "2025-10-29",
+  "journal_ref": null
+ },
+ "2512.03318": {
+  "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+  "authors": [
+   "Chandler Smith",
+   "Marwa Abdulhai",
+   "Manfred Diaz",
+   "Marko Tesic",
+   "Rakshit S. Trivedi",
+   "Alexander Sasha Vezhnevets",
+   "Lewis Hammond",
+   "Jesse Clifton",
+   "Minsuk Chang",
+   "Edgar A. Du\u00e9\u00f1ez-Guzm\u00e1n",
+   "John P. Agapiou",
+   "Jayd Matyas",
+   "Danny Karmon",
+   "Akash Kundu",
+   "Aliaksei Korshuk",
+   "Ananya Ananya",
+   "Arrasy Rahman",
+   "Avinaash Anand Kulandaivel",
+   "Bain McHale",
+   "Beining Zhang",
+   "Buyantuev Alexander",
+   "Carlos Saith Rodriguez Rojas",
+   "Caroline Wang",
+   "Chetan Talele",
+   "Chenao Liu",
+   "Chichen Lin",
+   "Diana Riazi",
+   "Di Yang Shi",
+   "Emanuel Tewolde",
+   "Elizaveta Tennant",
+   "Fangwei Zhong",
+   "Fuyang Cui",
+   "Gang Zhao",
+   "Gema Parre\u00f1o Piqueras",
+   "Hyeonggeun Yun",
+   "Ilya Makarov",
+   "Jiaxun Cui",
+   "Jebish Purbey",
+   "Jim Dilkes",
+   "Jord Nguyen",
+   "Lingyun Xiao",
+   "Luis Felipe Giraldo",
+   "Manuela Chacon-Chamorro",
+   "Manuel Sebastian Rios Beltran",
+   "Marta Emili Garc\u00eda Segura",
+   "Mengmeng Wang",
+   "Mogtaba Alim",
+   "Nicanor Quijano",
+   "Nico Schiavone",
+   "Olivia Macmillan-Scott",
+   "Oswaldo Pe\u00f1a",
+   "Peter Stone",
+   "Ram Mohan Rao Kadiyala",
+   "Rolando Fernandez",
+   "Ruben Manrique",
+   "Sunjia Lu",
+   "Sheila A. McIlraith",
+   "Shamika Dhuri",
+   "Shuqing Shi",
+   "Siddhant Gupta",
+   "Sneheel Sarangi",
+   "Sriram Ganapathi Subramanian",
+   "Taehun Cha",
+   "Toryn Q. Klassen",
+   "Wenming Tu",
+   "Weijian Fan",
+   "Wu Ruiyang",
+   "Xue Feng",
+   "Yali Du",
+   "Yang Liu",
+   "Yiding Wang",
+   "Yipeng Kang",
+   "Yoonchang Sung",
+   "Yuxuan Chen",
+   "Zhaowei Zhang",
+   "Zhihan Wang",
+   "Zhiqiang Wu",
+   "Ziang Chen",
+   "Zilong Zheng",
+   "Zixia Jia",
+   "Ziyan Wang",
+   "Dylan Hadfield-Menell",
+   "Natasha Jaques",
+   "Tim Baarslag",
+   "Jose Hernandez-Orallo",
+   "Joel Z. Leibo"
+  ],
+  "published": "2025-12-03",
+  "updated": "2025-12-03",
+  "journal_ref": null
+ },
+ "2602.16805": {
+  "title": "Simple Baselines are Competitive with Code Evolution",
+  "authors": [
+   "Yonatan Gideoni",
+   "Sebastian Risi",
+   "Yarin Gal"
+  ],
+  "published": "2026-02-18",
+  "updated": "2026-02-18",
+  "journal_ref": null
+ },
+ "2606.15497": {
+  "title": "Towards End-to-End Automation of AI Research",
+  "authors": [
+   "Yutaro Yamada",
+   "Robert Tjarko Lange",
+   "Cong Lu",
+   "Chris Lu",
+   "Shengran Hu",
+   "Jakob Foerster",
+   "David Ha",
+   "Jeff Clune"
+  ],
+  "published": "2026-03-31",
+  "updated": "2026-03-31",
+  "journal_ref": null
+ },
+ "2602.07755": {
+  "title": "Learning to Continually Learn via Meta-learning Agentic Memory Designs",
+  "authors": [
+   "Yiming Xiong",
+   "Shengran Hu",
+   "Jeff Clune"
+  ],
+  "published": "2026-02-08",
+  "updated": "2026-02-08",
+  "journal_ref": null
+ },
+ "2608.27147": {
+  "title": "Thomson: Continual Learning of Frontier Models for SovereignAI",
+  "authors": [
+   "Shengzhuang Chen",
+   "Jerrod Parker",
+   "Yejin Bang",
+   "Andrew M. Bean",
+   "Nabeel Seedat",
+   "Stefan Winzeck",
+   "Daniil Glazko",
+   "Jannik Zgraggen",
+   "Fangyi Yu",
+   "Scott Arnott",
+   "Dietrich Trautmann",
+   "Luca Ciuffreda",
+   "Guglielmo Bonifazi",
+   "Davide Romano",
+   "Bradley Bell",
+   "Kirsty Fielding",
+   "Daniele Giofr\u00e8",
+   "Tom Zielund",
+   "Ipshita Chatterjee",
+   "Sneha Murthy Ghantasala",
+   "Manpreet Nanreh",
+   "John Scoville",
+   "Maciej Sakowicz",
+   "Wassim Seifeddine",
+   "Lukas Thede",
+   "Jonathan Richard Schwarz"
+  ],
+  "published": "2026-08-27",
+  "updated": "2026-08-27",
+  "journal_ref": null
+ },
+ "2607.27687": {
+  "title": "Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch",
+  "authors": [
+   "Jiazhen Ji",
+   "Shouhong Ding"
+  ],
+  "published": "2026-07-30",
+  "updated": "2026-07-30",
+  "journal_ref": null
+ },
+ "2607.11895": {
+  "title": "AgentSociety 2: An Integrated Research Environment for Executable Social Science",
+  "authors": [
+   "Jinghua Piao",
+   "Jun Zhang",
+   "Haoyu Huang",
+   "Keming Zhang",
+   "Jing Yi Wang",
+   "Xinran Zhao",
+   "Songwei Li",
+   "Boyuan Sun",
+   "Jiayi Chang",
+   "Fengli Xu",
+   "Chunyan Wang",
+   "Fang Zhang",
+   "Ke Rong",
+   "Jun Su",
+   "Tianguang Meng",
+   "Yi Liu",
+   "Qingguo Meng",
+   "Yu Wang",
+   "Yong Li"
+  ],
+  "published": "2026-06-11",
+  "updated": "2026-07-15",
+  "journal_ref": null
+ },
+ "2608.06216": {
+  "title": "Continual Learning in Transition",
+  "authors": [
+   "Zhiyan Hou",
+   "Dan Zhang",
+   "Tao Feng",
+   "Liyuan Wang",
+   "Wei Li",
+   "Xiangzhao Hao",
+   "Hongyan An",
+   "Junfeng Fang",
+   "Haokai Ma",
+   "Zhaohui Xu",
+   "Xinyu Tang",
+   "Haiyun Guo",
+   "Jinqiao Wang",
+   "Tat-Seng Chua"
+  ],
+  "published": "2026-08-06",
+  "updated": "2026-08-12",
+  "journal_ref": null
+ },
+ "2609.17320": {
+  "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+  "authors": [
+   "Deepak Akkil",
+   "Tamer Abuelsaad",
+   "Karthik Vikram",
+   "Matthew Pace",
+   "Aditya Vempaty",
+   "Saahir Beotra",
+   "Ravi Kokku",
+   "Satya Nitta"
+  ],
+  "published": "2026-09-15",
+  "updated": "2026-09-15",
+  "journal_ref": null
+ },
+ "2607.09560": {
+  "title": "Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI",
+  "authors": [
+   "Yuan Cao",
+   "Haiqian Yang"
+  ],
+  "published": "2026-07-10",
+  "updated": "2026-07-10",
+  "journal_ref": null
+ },
+ "2301.04104": {
+  "title": "Mastering Diverse Domains through World Models",
+  "authors": [
+   "Danijar Hafner",
+   "Jurgis Pasukonis",
+   "Jimmy Ba",
+   "Timothy Lillicrap"
+  ],
+  "published": "2023-01-10",
+  "updated": "2024-04-17",
+  "journal_ref": null
+ },
+ "1707.06347": {
+  "title": "Proximal Policy Optimization Algorithms",
+  "authors": [
+   "John Schulman",
+   "Filip Wolski",
+   "Prafulla Dhariwal",
+   "Alec Radford",
+   "Oleg Klimov"
+  ],
+  "published": "2017-07-20",
+  "updated": "2017-08-28",
+  "journal_ref": null
+ },
+ "cs/0309048": {
+  "title": "Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements",
+  "authors": [
+   "Juergen Schmidhuber"
+  ],
+  "published": "2003-09-25",
+  "updated": "2006-12-17",
+  "journal_ref": "Variants published in \"Adaptive Agents and Multi-Agent Systems II\", LNCS 3394, p. 1-23, Springer, 2005: ISBN 978-3-540-25260-3; as well as in Proc. ICANN 2005, LNCS 3697, p. 223-233, Springer, 2005 (plenary talk); as well as in \"Artificial General Intelligence\", Series: Cognitive Technologies, Springer, 2006: ISBN-13: 978-3-540-23733-4"
+ }
+}

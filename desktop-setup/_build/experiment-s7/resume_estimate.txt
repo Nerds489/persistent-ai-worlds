@@ -1,0 +1,6 @@
+ford1 seeds at years 968-1019
+wall  seeds at years 764-818
+base  at 2000
+
+to take ford1+wall to 2,000: 35,577 seed-years, about 29 min at 32 processes
+to take all three to 5,000: 179,577 seed-years, about 2.5 h

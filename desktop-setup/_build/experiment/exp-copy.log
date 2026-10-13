@@ -1,0 +1,16 @@
+2026-10-11 13:09:34  4 seeds x 300 years -> runs/inherit-copy  (4 at a time)  options: none
+runs/inherit-copy/seed-2: year 300  population 963 (west 531, east 432)  max generation 131  (0.33 years/s)  energy conserved to 2.3e-08
+runs/inherit-copy/seed-3: year 300  population 1044 (west 453, east 591)  max generation 113  (0.32 years/s)  energy conserved to 3.1e-08
+runs/inherit-copy/seed-4: year 300  population 959 (west 576, east 383)  max generation 141  (0.32 years/s)  energy conserved to 2.2e-08
+runs/inherit-copy/seed-1: year 300  population 1096 (west 719, east 377)  max generation 98  (0.32 years/s)  energy conserved to 9.8e-09
+
+runs/inherit-copy  (4 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1           300          1073         731.5         341.8         322.1         109.3         21.56        0.1304       0.02649      0.000546         5.671      9.78e-09
+        seed-2           300         957.6         516.9         440.7         448.9         119.6         21.51         0.233       0.05211      0.000762         6.434      2.26e-08
+        seed-3           300          1021         469.1         551.5         278.3         102.3         21.45        0.2542       0.04019      0.000412         6.233      3.11e-08
+        seed-4           300         996.5         610.1         386.4         232.3         133.4         21.51        0.1272       0.04493      0.000596         5.953      2.24e-08
+          mean           300          1012         581.9         430.1         320.4         116.1         21.51        0.1862       0.04093      0.000579         6.073     2.147e-08
+            sd             0         48.41         115.6         90.48         93.19         13.52       0.04353       0.06684        0.0108     0.0001446        0.3329     8.785e-09
+
+wrote /home/minty/Desktop/Research/ai-simulations/desktop-setup/_build/experiment/runs/summary.csv

@@ -1,0 +1,9 @@
+inherit-copy vs base seed 1: 300 years x 24 columns, 0 differences; max energy_drift laptop 9.78e-09, desktop 9.78e-09
+inherit-copy vs base seed 2: 300 years x 24 columns, 0 differences; max energy_drift laptop 2.26e-08, desktop 2.26e-08
+inherit-copy vs base seed 3: 300 years x 24 columns, 0 differences; max energy_drift laptop 3.11e-08, desktop 3.11e-08
+inherit-copy vs base seed 4: 300 years x 24 columns, 0 differences; max energy_drift laptop 2.24e-08, desktop 2.24e-08
+inherit-none vs none seed 1: 300 years x 24 columns, 0 differences; max energy_drift laptop 1.43e-08, desktop 1.43e-08
+inherit-none vs none seed 2: 300 years x 24 columns, 0 differences; max energy_drift laptop 1.42e-08, desktop 1.42e-08
+inherit-none vs none seed 3: 300 years x 24 columns, 0 differences; max energy_drift laptop 1.63e-08, desktop 1.63e-08
+inherit-none vs none seed 4: 300 years x 24 columns, 0 differences; max energy_drift laptop 5.40e-09, desktop 5.40e-09
+IDENTICAL

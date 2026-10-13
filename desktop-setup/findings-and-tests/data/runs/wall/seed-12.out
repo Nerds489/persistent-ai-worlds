@@ -1,0 +1,7 @@
+runs/wall/seed-12: year 811  population 995 (west 555, east 440)  max generation 297  (0.56 years/s)  energy conserved to 1.1e-07
+resumed runs/wall/seed-12 at year 811
+runs/wall/seed-12: year 872  population 1029 (west 575, east 454)  max generation 319  (0.25 years/s)  energy conserved to 1.2e-07
+resumed runs/wall/seed-12 at year 872
+runs/wall/seed-12: year 5,000  population 1109 (west 732, east 377)  max generation 1360  (0.59 years/s)  energy conserved to 5.5e-07
+resumed runs/wall/seed-12 at year 5,000
+runs/wall/seed-12: year 10,000  population 1118 (west 816, east 302)  max generation 2342  (0.59 years/s)  energy conserved to 4.2e-07

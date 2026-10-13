@@ -1,0 +1,350 @@
+=== 2026-10-11 14:04:37  START base  (16 seeds x 2000 years, folder ., options: none)
+2026-10-11 14:04:37  16 seeds x 2000 years -> runs/base  (16 at a time)  options: none
+runs/base/seed-13: year 2,000  population 1087 (west 610, east 477)  max generation 701  (1.15 years/s)  energy conserved to 1.9e-07
+runs/base/seed-15: year 2,000  population 1065 (west 481, east 584)  max generation 559  (1.11 years/s)  energy conserved to 1.8e-07
+runs/base/seed-12: year 2,000  population 1191 (west 418, east 773)  max generation 481  (1.11 years/s)  energy conserved to 1.6e-07
+runs/base/seed-2: year 2,000  population 1195 (west 455, east 740)  max generation 546  (1.11 years/s)  energy conserved to 1.4e-07
+runs/base/seed-3: year 2,000  population 1082 (west 524, east 558)  max generation 485  (1.11 years/s)  energy conserved to 2.1e-07
+runs/base/seed-8: year 2,000  population 1128 (west 731, east 397)  max generation 632  (1.11 years/s)  energy conserved to 1.5e-07
+runs/base/seed-5: year 2,000  population 1175 (west 835, east 340)  max generation 500  (1.10 years/s)  energy conserved to 3.1e-08
+runs/base/seed-7: year 2,000  population 1172 (west 845, east 327)  max generation 577  (1.10 years/s)  energy conserved to 7.6e-08
+runs/base/seed-11: year 2,000  population 1150 (west 787, east 363)  max generation 618  (1.09 years/s)  energy conserved to 4.9e-08
+runs/base/seed-16: year 2,000  population 1131 (west 389, east 742)  max generation 474  (1.09 years/s)  energy conserved to 1.0e-07
+runs/base/seed-1: year 2,000  population 1158 (west 727, east 431)  max generation 532  (1.08 years/s)  energy conserved to 8.1e-08
+runs/base/seed-6: year 2,000  population 1189 (west 428, east 761)  max generation 520  (1.08 years/s)  energy conserved to 1.1e-07
+runs/base/seed-4: year 2,000  population 1197 (west 704, east 493)  max generation 513  (1.08 years/s)  energy conserved to 1.4e-07
+runs/base/seed-9: year 2,000  population 1166 (west 464, east 702)  max generation 634  (1.07 years/s)  energy conserved to 5.5e-09
+runs/base/seed-14: year 2,000  population 1143 (west 702, east 441)  max generation 587  (1.07 years/s)  energy conserved to 4.4e-08
+runs/base/seed-10: year 2,000  population 1161 (west 497, east 664)  max generation 483  (1.06 years/s)  energy conserved to 1.1e-08
+
+runs/base  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          1162         752.7         409.3           200         525.2         21.46       0.05355       0.02662      0.002732         4.983       8.1e-08
+       seed-10          2000          1126         460.3         665.9         257.4         478.4         21.43       0.04286       0.04298      0.000724         4.902      1.13e-08
+       seed-11          2000          1187         818.1         368.7         193.6           610          21.3       0.08546       0.02527      0.008434         4.813      5.72e-08
+       seed-12          2000          1150         405.6         744.9         425.6           474         21.37       0.05953       0.02529       0.01322         4.683       1.6e-07
+       seed-13          2000          1086         601.7         484.1         250.4         693.3         21.53       0.08145       0.03561      0.000716         5.485      1.92e-07
+       seed-14          2000          1158         724.9         432.8           173         580.7         21.41       0.06886       0.04069      0.001352         4.875      4.45e-08
+       seed-15          2000          1109         508.1         600.6         193.7         553.9          21.5        0.0639       0.03025      0.001164         5.037      1.79e-07
+       seed-16          2000          1125         384.5         740.2         211.4         468.1         21.34       0.06235       0.03872       0.00069         5.076      1.03e-07
+        seed-2          2000          1184         448.2         735.3           300         540.6         21.44       0.06621       0.03178      0.002474         4.846      1.44e-07
+        seed-3          2000          1100         502.7         597.6         279.3         477.7         21.43       0.04323       0.02298       0.00079         4.562      2.07e-07
+        seed-4          2000          1176         711.5         464.8         224.7         505.9         21.28       0.07285       0.03616      0.005726         5.335      1.39e-07
+        seed-5          2000          1201         871.8         329.4         215.5         492.6         21.44       0.06404       0.03087       0.01568         4.665      3.72e-08
+        seed-6          2000          1202         427.1         774.9         182.3         513.1         21.41       0.03034       0.01819      0.002438         4.557      1.12e-07
+        seed-7          2000          1171         831.3         339.9         159.6         570.4         21.31       0.05238       0.02227       0.01646         4.238         9e-08
+        seed-8          2000          1113         729.7         383.5           179         625.5         21.42       0.03464       0.03391      0.000278         4.303      1.46e-07
+        seed-9          2000          1154         446.2         707.4         218.1           626         21.43       0.06227       0.03296       0.02531         4.074      3.61e-08
+          mean          2000          1150         601.5         548.7           229           546         21.41         0.059       0.03091      0.006137         4.777     1.087e-07
+            sd             0         36.55         171.5         163.4         65.37         66.76       0.07009       0.01552      0.007059      0.007566        0.3802     6.085e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 14:36:00  DONE  base  rc=0
+=== 2026-10-11 14:36:00  START none  (16 seeds x 2000 years, folder ., options: --inherit none)
+2026-10-11 14:36:00  16 seeds x 2000 years -> runs/none  (16 at a time)  options: --inherit none
+runs/none/seed-13: year 2,000  population 1087 (west 596, east 491)  max generation 385  (1.13 years/s)  energy conserved to 2.8e-08
+runs/none/seed-4: year 2,000  population 1056 (west 545, east 511)  max generation 463  (1.12 years/s)  energy conserved to 1.0e-07
+runs/none/seed-15: year 2,000  population 1043 (west 506, east 537)  max generation 491  (1.11 years/s)  energy conserved to 1.1e-07
+runs/none/seed-11: year 2,000  population 1126 (west 621, east 505)  max generation 375  (1.11 years/s)  energy conserved to 7.9e-08
+runs/none/seed-12: year 2,000  population 1086 (west 525, east 561)  max generation 382  (1.11 years/s)  energy conserved to 1.3e-07
+runs/none/seed-3: year 2,000  population 1080 (west 558, east 522)  max generation 392  (1.10 years/s)  energy conserved to 1.4e-07
+runs/none/seed-5: year 2,000  population 1114 (west 577, east 537)  max generation 378  (1.10 years/s)  energy conserved to 1.2e-07
+runs/none/seed-2: year 2,000  population 1127 (west 550, east 577)  max generation 368  (1.10 years/s)  energy conserved to 1.2e-07
+runs/none/seed-9: year 2,000  population 1143 (west 556, east 587)  max generation 373  (1.09 years/s)  energy conserved to 1.0e-07
+runs/none/seed-10: year 2,000  population 1104 (west 551, east 553)  max generation 390  (1.09 years/s)  energy conserved to 1.1e-07
+runs/none/seed-1: year 2,000  population 1121 (west 530, east 591)  max generation 383  (1.09 years/s)  energy conserved to 1.2e-07
+runs/none/seed-6: year 2,000  population 1106 (west 498, east 608)  max generation 377  (1.09 years/s)  energy conserved to 6.7e-08
+runs/none/seed-7: year 2,000  population 1109 (west 579, east 530)  max generation 384  (1.09 years/s)  energy conserved to 1.3e-07
+runs/none/seed-16: year 2,000  population 1102 (west 526, east 576)  max generation 372  (1.09 years/s)  energy conserved to 1.1e-07
+runs/none/seed-14: year 2,000  population 1124 (west 628, east 496)  max generation 373  (1.08 years/s)  energy conserved to 1.1e-07
+runs/none/seed-8: year 2,000  population 1125 (west 662, east 463)  max generation 381  (1.08 years/s)  energy conserved to 1.4e-07
+
+runs/none  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          1101         535.2         566.1         328.5           378         21.19       0.03531       0.01706      0.000116         4.042      1.17e-07
+       seed-10          2000          1126         555.9         569.9           321         384.8         21.18       0.03394       0.01371      0.000176           4.1       1.1e-07
+       seed-11          2000          1124         604.2         519.3           292         370.3         21.16       0.02814       0.01536      0.000134         4.083      7.85e-08
+       seed-12          2000          1094         534.7           559           508         376.7         21.05       0.03732       0.01381      0.000174         4.466      1.33e-07
+       seed-13          2000          1111           603         507.8         318.1         379.4         21.16       0.02711        0.0125      0.000182         4.003      3.25e-08
+       seed-14          2000          1126         643.7         482.6         239.3           368          21.2       0.03051       0.01132      0.000142         3.883      1.13e-07
+       seed-15          2000          1059         509.6         549.1         325.5         485.3         21.16       0.03517       0.01451      0.000276         4.098      1.12e-07
+       seed-16          2000          1114         529.3           585         270.4         367.8         21.17       0.03285       0.01798      0.000156         4.202      1.15e-07
+        seed-2          2000          1122           561         561.1         371.6         363.2          21.2       0.02924       0.01409      0.000188         4.063      1.18e-07
+        seed-3          2000          1090           532         558.3         279.2         386.8         21.04       0.03162       0.02169      0.000116         4.505      1.37e-07
+        seed-4          2000          1052         544.3         507.7         274.2           458         21.15       0.03551       0.01341      0.000138         3.998      1.01e-07
+        seed-5          2000          1110         562.6         546.9         360.7           373         21.15       0.03748       0.01487      0.000144         4.024      1.16e-07
+        seed-6          2000          1115         511.5         603.1           296         373.1         21.17       0.03265       0.01669      0.000116         4.198      6.65e-08
+        seed-7          2000          1111         582.7         528.5         272.7         378.2         21.22       0.03096       0.01421      0.000136         3.995      1.26e-07
+        seed-8          2000          1125         654.5         470.8         234.4         376.8         21.16       0.03008       0.01585       0.00013         4.184      1.44e-07
+        seed-9          2000          1126         542.6         583.3         368.8         368.1         21.15       0.03236       0.01228         8e-05         4.125      1.03e-07
+          mean          2000          1107         562.9         543.7         316.3         386.7         21.16       0.03252       0.01496     0.0001502         4.123     1.077e-07
+            sd             0         22.97         43.65         37.65         66.13         34.11       0.04832       0.00312      0.002532     4.404e-05        0.1645     2.804e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 15:06:51  DONE  none  rc=0
+=== 2026-10-11 15:06:51  START half  (16 seeds x 2000 years, folder ., options: --inherit half)
+2026-10-11 15:06:51  16 seeds x 2000 years -> runs/half  (16 at a time)  options: --inherit half
+runs/half/seed-13: year 2,000  population 1084 (west 596, east 488)  max generation 535  (1.13 years/s)  energy conserved to 2.1e-08
+runs/half/seed-11: year 2,000  population 1082 (west 561, east 521)  max generation 523  (1.12 years/s)  energy conserved to 1.2e-07
+runs/half/seed-12: year 2,000  population 1088 (west 603, east 485)  max generation 452  (1.11 years/s)  energy conserved to 1.6e-07
+runs/half/seed-6: year 2,000  population 1044 (west 492, east 552)  max generation 520  (1.11 years/s)  energy conserved to 1.0e-07
+runs/half/seed-16: year 2,000  population 1095 (west 505, east 590)  max generation 438  (1.10 years/s)  energy conserved to 1.2e-07
+runs/half/seed-8: year 2,000  population 1113 (west 632, east 481)  max generation 445  (1.10 years/s)  energy conserved to 1.3e-07
+runs/half/seed-4: year 2,000  population 1053 (west 505, east 548)  max generation 536  (1.10 years/s)  energy conserved to 1.0e-07
+runs/half/seed-7: year 2,000  population 1101 (west 583, east 518)  max generation 454  (1.10 years/s)  energy conserved to 1.2e-07
+runs/half/seed-1: year 2,000  population 1086 (west 568, east 518)  max generation 430  (1.10 years/s)  energy conserved to 1.0e-07
+runs/half/seed-5: year 2,000  population 1137 (west 581, east 556)  max generation 434  (1.09 years/s)  energy conserved to 1.4e-07
+runs/half/seed-2: year 2,000  population 1089 (west 570, east 519)  max generation 455  (1.09 years/s)  energy conserved to 1.1e-07
+runs/half/seed-14: year 2,000  population 1100 (west 600, east 500)  max generation 462  (1.09 years/s)  energy conserved to 1.2e-07
+runs/half/seed-15: year 2,000  population 1117 (west 502, east 615)  max generation 469  (1.09 years/s)  energy conserved to 4.5e-08
+runs/half/seed-10: year 2,000  population 1110 (west 550, east 560)  max generation 451  (1.09 years/s)  energy conserved to 9.2e-08
+runs/half/seed-9: year 2,000  population 1150 (west 574, east 576)  max generation 486  (1.09 years/s)  energy conserved to 9.9e-08
+runs/half/seed-3: year 2,000  population 1124 (west 564, east 560)  max generation 461  (1.08 years/s)  energy conserved to 1.4e-07
+
+runs/half  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          1102         567.2         535.2         314.8         424.1         21.14       0.03281       0.04868      0.000188         3.816      9.98e-08
+       seed-10          2000          1103         549.2         553.9         282.6         445.6         21.14       0.03413       0.05338      0.000154         3.919      9.24e-08
+       seed-11          2000          1080         575.7         504.7         257.5         518.8         21.23       0.03043       0.03439      0.000398         3.553      1.18e-07
+       seed-12          2000          1102         611.9         490.2         326.7         447.2         21.23       0.03502       0.03574        0.0004         3.929      1.55e-07
+       seed-13          2000          1070         597.7         471.9         292.3         530.7         21.24       0.03264        0.0512      0.000772         4.087      2.54e-08
+       seed-14          2000          1115         619.8         495.4         220.9         457.6         21.22       0.03669       0.04711      0.000486         4.038      1.22e-07
+       seed-15          2000          1114         489.4           625         298.8         463.7         21.27       0.02966       0.03738      0.001444         3.989      4.48e-08
+       seed-16          2000          1100         521.6         578.1         236.2         431.7         21.26       0.02783       0.04357      0.000282         4.112       1.2e-07
+        seed-2          2000          1123         607.1         516.2         314.2         448.8         21.24       0.03077       0.03912      0.000534         4.123      1.08e-07
+        seed-3          2000          1109         539.7         569.3         278.4         453.9         21.21       0.02977       0.04041      0.000316         4.021      1.37e-07
+        seed-4          2000          1059         515.8         543.4         283.3           530         21.28       0.03073       0.05499      0.000334         3.952      1.02e-07
+        seed-5          2000          1135         582.7         551.8         322.9         428.3         21.16       0.02698       0.03503      0.000234         3.831      1.38e-07
+        seed-6          2000          1067         506.7           560         274.5         513.1         21.22       0.03321       0.04983        0.0003         3.724      1.03e-07
+        seed-7          2000          1111         593.4         517.2         265.3         447.6         21.29       0.04023       0.04144      0.000704         3.827      1.15e-07
+        seed-8          2000          1110         629.3         480.6         209.9         440.2         21.21       0.03605       0.05405       0.00078         4.165      1.32e-07
+        seed-9          2000          1127         564.1         563.3         341.7         479.9         21.24       0.03136        0.0437      0.000208         3.839      9.86e-08
+          mean          2000          1102           567         534.8         282.5         466.3         21.22        0.0324       0.04438     0.0004709         3.933     1.069e-07
+            sd             0         22.01         42.95         41.12         38.06         36.63       0.04473      0.003453      0.007086     0.0003282        0.1635     3.294e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 15:37:36  DONE  half  rc=0
+=== 2026-10-11 15:37:36  DRIVER FINISHED: base none half
+=== 2026-10-11 15:37:52  START calm  (16 seeds x 2000 years, folder ., options: --no-events)
+2026-10-11 15:37:52  16 seeds x 2000 years -> runs/calm  (16 at a time)  options: --no-events
+runs/calm/seed-12: year 2,000  population 1059 (west 481, east 578)  max generation 524  (1.14 years/s)  energy conserved to 1.8e-07
+runs/calm/seed-13: year 2,000  population 1093 (west 659, east 434)  max generation 686  (1.14 years/s)  energy conserved to 1.0e-07
+runs/calm/seed-8: year 2,000  population 1202 (west 581, east 621)  max generation 633  (1.12 years/s)  energy conserved to 6.6e-08
+runs/calm/seed-7: year 2,000  population 1133 (west 717, east 416)  max generation 591  (1.11 years/s)  energy conserved to 1.5e-07
+runs/calm/seed-15: year 2,000  population 1095 (west 459, east 636)  max generation 634  (1.11 years/s)  energy conserved to 2.0e-07
+runs/calm/seed-3: year 2,000  population 1049 (west 371, east 678)  max generation 581  (1.10 years/s)  energy conserved to 1.2e-07
+runs/calm/seed-16: year 2,000  population 1118 (west 395, east 723)  max generation 538  (1.10 years/s)  energy conserved to 9.0e-08
+runs/calm/seed-4: year 2,000  population 1126 (west 579, east 547)  max generation 513  (1.10 years/s)  energy conserved to 1.5e-07
+runs/calm/seed-5: year 2,000  population 1137 (west 724, east 413)  max generation 497  (1.10 years/s)  energy conserved to 4.2e-08
+runs/calm/seed-1: year 2,000  population 1127 (west 572, east 555)  max generation 552  (1.09 years/s)  energy conserved to 7.9e-08
+runs/calm/seed-14: year 2,000  population 1164 (west 704, east 460)  max generation 480  (1.09 years/s)  energy conserved to 1.1e-07
+runs/calm/seed-11: year 2,000  population 1128 (west 754, east 374)  max generation 487  (1.09 years/s)  energy conserved to 1.1e-07
+runs/calm/seed-2: year 2,000  population 1096 (west 613, east 483)  max generation 479  (1.09 years/s)  energy conserved to 1.3e-07
+runs/calm/seed-10: year 2,000  population 1190 (west 415, east 775)  max generation 488  (1.08 years/s)  energy conserved to 5.3e-08
+runs/calm/seed-9: year 2,000  population 1204 (west 670, east 534)  max generation 486  (1.06 years/s)  energy conserved to 1.5e-09
+runs/calm/seed-6: year 2,000  population 1239 (west 201, east 1038)  max generation 520  (1.06 years/s)  energy conserved to 6.0e-08
+
+runs/calm  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          1126         580.4         545.9         291.9         547.8         21.33       0.04065       0.04253      0.000854         5.011      7.89e-08
+       seed-10          2000          1165         392.8         772.6         246.7         486.3         21.34        0.0591       0.03889      0.001854         4.933      5.31e-08
+       seed-11          2000          1144         762.8         380.7         216.4         482.5         21.51       0.07873       0.03363      0.005358         5.126      1.13e-07
+       seed-12          2000          1065         498.7         565.8           351         515.9         21.55        0.1114       0.02794      0.002282         5.463      1.83e-07
+       seed-13          2000          1090         655.4         434.7         241.6         679.9         21.32       0.04931       0.03175      0.001344         4.899      1.05e-07
+       seed-14          2000          1140           684         455.7         189.3         471.3         21.45       0.04907       0.03601       0.00051         5.036      1.05e-07
+       seed-15          2000          1081         461.3         619.9         227.3         628.7         21.28       0.05917       0.02695        0.0006         5.002      1.96e-07
+       seed-16          2000          1099         390.3         708.6         190.4         532.2         21.53          0.07       0.02637      0.001952          5.17      8.97e-08
+        seed-2          2000          1105         613.7         491.7         367.3         470.7         21.39       0.09225       0.03224      0.000992         5.635      1.32e-07
+        seed-3          2000          1049         365.8         683.4         181.6         576.4         21.25       0.06645       0.03074       0.01034         4.569      1.29e-07
+        seed-4          2000          1135         595.2         539.8         259.2         506.8          21.4       0.04418       0.02722      0.000468         4.389      1.47e-07
+        seed-5          2000          1154         737.1         417.1         224.8         493.5         21.33       0.04302       0.04659      0.001596         4.977      4.22e-08
+        seed-6          2000          1237           210          1027         175.9         513.8         21.46       0.06085       0.02422       0.01038         4.464      5.96e-08
+        seed-7          2000          1145         711.1         433.8         204.3           584         21.47       0.04487       0.03146      0.003566         4.821      1.48e-07
+        seed-8          2000          1158         564.1         594.2         170.5         625.2          21.5       0.04922       0.03315       0.01551         4.939      6.77e-08
+        seed-9          2000          1226           656         570.2         242.6         482.1         21.42       0.08858       0.02318      0.000626         4.908      1.02e-08
+          mean          2000          1133         554.9         577.6         236.3         537.3         21.41       0.06293       0.03205       0.00364         4.959     1.037e-07
+            sd             0         51.76         155.7         163.5         58.33         64.06       0.09097       0.02057      0.006469      0.004506        0.3207     5.119e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 16:09:20  DONE  calm  rc=0
+=== 2026-10-11 16:09:20  START e20k  (16 seeds x 2000 years, folder ., options: --energy 20000)
+2026-10-11 16:09:20  16 seeds x 2000 years -> runs/e20k  (16 at a time)  options: --energy 20000
+runs/e20k/seed-13: year 2,000  population 575 (west 289, east 286)  max generation 564  (1.43 years/s)  energy conserved to 6.6e-08
+runs/e20k/seed-12: year 2,000  population 561 (west 250, east 311)  max generation 546  (1.43 years/s)  energy conserved to 6.7e-08
+runs/e20k/seed-5: year 2,000  population 624 (west 272, east 352)  max generation 468  (1.41 years/s)  energy conserved to 6.2e-08
+runs/e20k/seed-2: year 2,000  population 571 (west 250, east 321)  max generation 594  (1.40 years/s)  energy conserved to 3.6e-08
+runs/e20k/seed-16: year 2,000  population 577 (west 255, east 322)  max generation 608  (1.40 years/s)  energy conserved to 4.7e-08
+runs/e20k/seed-7: year 2,000  population 571 (west 347, east 224)  max generation 583  (1.39 years/s)  energy conserved to 6.7e-08
+runs/e20k/seed-3: year 2,000  population 597 (west 281, east 316)  max generation 493  (1.39 years/s)  energy conserved to 8.5e-08
+runs/e20k/seed-10: year 2,000  population 584 (west 305, east 279)  max generation 638  (1.39 years/s)  energy conserved to 2.4e-08
+runs/e20k/seed-4: year 2,000  population 579 (west 141, east 438)  max generation 598  (1.39 years/s)  energy conserved to 7.1e-08
+runs/e20k/seed-8: year 2,000  population 600 (west 295, east 305)  max generation 465  (1.38 years/s)  energy conserved to 6.4e-08
+runs/e20k/seed-11: year 2,000  population 599 (west 198, east 401)  max generation 585  (1.38 years/s)  energy conserved to 2.3e-08
+runs/e20k/seed-1: year 2,000  population 544 (west 274, east 270)  max generation 621  (1.38 years/s)  energy conserved to 4.0e-08
+runs/e20k/seed-9: year 2,000  population 628 (west 346, east 282)  max generation 485  (1.38 years/s)  energy conserved to 2.9e-08
+runs/e20k/seed-15: year 2,000  population 587 (west 301, east 286)  max generation 462  (1.38 years/s)  energy conserved to 8.8e-08
+runs/e20k/seed-14: year 2,000  population 594 (west 207, east 387)  max generation 469  (1.36 years/s)  energy conserved to 4.9e-08
+runs/e20k/seed-6: year 2,000  population 611 (west 242, east 369)  max generation 486  (1.36 years/s)  energy conserved to 4.2e-08
+
+runs/e20k  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000         549.5         282.7         266.8           208         613.7         21.24       0.03577       0.06825        0.0006         3.181      4.02e-08
+       seed-10          2000         571.8         300.4         271.5           162         630.2         21.34       0.03423       0.05614       0.00101         4.096      2.37e-08
+       seed-11          2000         591.2         196.8         394.4         155.7         578.3         21.25       0.03857       0.05533      0.000458          3.87       2.3e-08
+       seed-12          2000         560.1         261.5         298.6         997.6         541.8         21.15        0.1447       0.03543      0.000544         5.197      6.67e-08
+       seed-13          2000         570.5           273         297.5         185.3         556.8         21.13       0.03761       0.06923      0.000866         3.875      6.59e-08
+       seed-14          2000         601.8         195.2         406.6         119.8         463.3          21.3       0.04178       0.06326      0.000452         3.868      4.88e-08
+       seed-15          2000         577.9         288.2         289.7         181.7         456.6         21.27        0.1664       0.03971      0.000614         5.159      8.76e-08
+       seed-16          2000         567.1         242.3         324.9         162.6         603.1         21.35       0.09292       0.03763      0.001636         4.854      4.74e-08
+        seed-2          2000         565.1         238.2         326.8         181.6         584.3         21.21        0.1226         0.041      0.000704         4.766      3.55e-08
+        seed-3          2000         591.3         281.9         309.4         166.6         487.4         21.22       0.09448       0.05021      0.000616         4.372      8.46e-08
+        seed-4          2000         587.4         145.9         441.5         133.8         610.2         21.31       0.05154       0.04383      0.002916         4.301      7.09e-08
+        seed-5          2000         602.7         249.5         353.3         230.6         460.3          21.3       0.04503       0.05426      0.001316         4.295       6.2e-08
+        seed-6          2000         616.1         228.3         387.7         176.2         480.4         21.48       0.03537       0.03395        0.0045         3.931      4.23e-08
+        seed-7          2000         571.7         320.1         251.6         144.6         574.3         21.31       0.07451       0.05294      0.001578         4.698      6.73e-08
+        seed-8          2000         590.5           285         305.5         116.5         459.6         21.24       0.06138       0.05752      0.000884         4.404      6.45e-08
+        seed-9          2000         615.2         346.5         268.6         161.2         475.9         21.37       0.05969       0.03753      0.001948          4.89       2.9e-08
+          mean          2000         583.1         258.5         324.6         217.7           536         21.28       0.07104       0.04976       0.00129          4.36     5.371e-08
+            sd             0         19.56         50.59         56.52         210.1          64.9       0.08679       0.04195       0.01163      0.001086        0.5485     2.041e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 16:33:53  DONE  e20k  rc=0
+=== 2026-10-11 16:33:53  START e45k  (16 seeds x 2000 years, folder ., options: --energy 45000 --capacity 3000)
+2026-10-11 16:33:53  16 seeds x 2000 years -> runs/e45k  (16 at a time)  options: --energy 45000 --capacity 3000
+runs/e45k/seed-13: year 2,000  population 2001 (west 1140, east 861)  max generation 674  (0.86 years/s)  energy conserved to 1.9e-07
+runs/e45k/seed-12: year 2,000  population 1828 (west 994, east 834)  max generation 561  (0.86 years/s)  energy conserved to 6.4e-07
+runs/e45k/seed-8: year 2,000  population 2005 (west 721, east 1284)  max generation 545  (0.82 years/s)  energy conserved to 2.6e-07
+runs/e45k/seed-15: year 2,000  population 2080 (west 728, east 1352)  max generation 532  (0.82 years/s)  energy conserved to 2.9e-07
+runs/e45k/seed-1: year 2,000  population 2058 (west 1422, east 636)  max generation 642  (0.81 years/s)  energy conserved to 9.8e-08
+runs/e45k/seed-4: year 2,000  population 2038 (west 472, east 1566)  max generation 535  (0.81 years/s)  energy conserved to 2.3e-07
+runs/e45k/seed-6: year 2,000  population 2129 (west 756, east 1373)  max generation 513  (0.81 years/s)  energy conserved to 2.1e-07
+runs/e45k/seed-11: year 2,000  population 2101 (west 1039, east 1062)  max generation 515  (0.81 years/s)  energy conserved to 2.6e-07
+runs/e45k/seed-16: year 2,000  population 1921 (west 680, east 1241)  max generation 493  (0.80 years/s)  energy conserved to 2.8e-07
+runs/e45k/seed-7: year 2,000  population 1995 (west 1491, east 504)  max generation 589  (0.80 years/s)  energy conserved to 9.0e-08
+runs/e45k/seed-2: year 2,000  population 2106 (west 1256, east 850)  max generation 500  (0.79 years/s)  energy conserved to 9.4e-08
+runs/e45k/seed-3: year 2,000  population 2144 (west 1647, east 497)  max generation 508  (0.79 years/s)  energy conserved to 1.7e-07
+runs/e45k/seed-5: year 2,000  population 2052 (west 1308, east 744)  max generation 508  (0.79 years/s)  energy conserved to 4.1e-08
+runs/e45k/seed-9: year 2,000  population 2072 (west 960, east 1112)  max generation 549  (0.79 years/s)  energy conserved to 7.3e-08
+runs/e45k/seed-10: year 2,000  population 2045 (west 1291, east 754)  max generation 542  (0.79 years/s)  energy conserved to 1.2e-07
+runs/e45k/seed-14: year 2,000  population 2190 (west 1031, east 1159)  max generation 541  (0.78 years/s)  energy conserved to 4.5e-08
+
+runs/e45k  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          2095          1417         677.3         240.7         634.2         21.58       0.03053       0.01824      0.003836         4.323      1.04e-07
+       seed-10          2000          2094          1321         772.7           317         532.1         21.37       0.05704       0.02939      0.001564         4.978      1.23e-07
+       seed-11          2000          2119          1056          1063         243.3         510.7         21.59       0.03655       0.01753      0.001008          4.42      2.63e-07
+       seed-12          2000          1834          1020         814.2         407.7         551.9         21.38       0.03618       0.02336      0.001156         4.309      6.38e-07
+       seed-13          2000          1971          1132         838.5         248.5         666.8         21.58         0.051       0.02328      0.000468          5.03      1.91e-07
+       seed-14          2000          2144          1004          1140         299.9         534.5         21.42       0.03566       0.01898      0.000674         4.822      7.64e-08
+       seed-15          2000          2068         699.4          1368         357.5         526.7          21.5       0.04957       0.01914      0.001346         4.231       2.9e-07
+       seed-16          2000          1953         678.6          1275         238.5         489.6         21.39       0.05059       0.02748      0.001834         4.883      2.83e-07
+        seed-2          2000          2131          1297         833.2         324.3         494.8         21.45       0.04986       0.02107      0.001996         4.656      9.45e-08
+        seed-3          2000          2199          1692         506.2         173.7         503.8         21.63       0.04769       0.02214      0.001926         4.369      1.71e-07
+        seed-4          2000          2063         474.2          1589         263.6         527.6         21.55       0.04152       0.02446        0.0103         4.494       2.3e-07
+        seed-5          2000          2068          1356         712.2         451.8         502.7         21.44       0.03565       0.02573      0.002606         4.568      8.19e-08
+        seed-6          2000          2123         725.2          1398         306.4         506.1         21.53       0.03422       0.02324      0.006082         3.889      2.05e-07
+        seed-7          2000          2037          1543         493.8         239.4         579.7         21.53       0.03068        0.0179       0.01296         3.912      8.97e-08
+        seed-8          2000          2037           749          1288         190.9         538.9         21.32        0.0436       0.02551       0.00046         4.698      2.57e-07
+        seed-9          2000          2078         967.6          1111         333.5           542         21.34       0.03297       0.02296      0.000356         4.575      7.29e-08
+          mean          2000          2063          1071         992.5         289.8         540.1         21.47       0.04146       0.02253      0.003036          4.51     1.981e-07
+            sd             0         86.72         348.1         332.7         74.98         49.25       0.09788      0.008471      0.003536      0.003686        0.3381     1.413e-07
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+=== 2026-10-11 17:16:23  DONE  e45k  rc=0
+=== 2026-10-11 17:16:23  START big  (16 seeds x 2000 years, folder ., options: --size 128 --energy 53000 --capacity 3500)
+2026-10-11 17:16:23  16 seeds x 2000 years -> runs/big  (16 at a time)  options: --size 128 --energy 53000 --capacity 3500
+runs/big/seed-13: year 2,000  population 1975 (west 1180, east 795)  max generation 541  (0.76 years/s)  energy conserved to 2.7e-07
+runs/big/seed-12: year 2,000  population 2013 (west 857, east 1156)  max generation 515  (0.75 years/s)  energy conserved to 2.5e-07
+runs/big/seed-8: year 2,000  population 2049 (west 1460, east 589)  max generation 604  (0.75 years/s)  energy conserved to 2.1e-07
+runs/big/seed-11: year 2,000  population 2012 (west 968, east 1044)  max generation 698  (0.75 years/s)  energy conserved to 1.7e-07
+runs/big/seed-5: year 2,000  population 2000 (west 1075, east 925)  max generation 512  (0.74 years/s)  energy conserved to 2.0e-07
+runs/big/seed-4: year 2,000  population 2020 (west 1294, east 726)  max generation 786  (0.74 years/s)  energy conserved to 3.0e-07
+runs/big/seed-2: year 2,000  population 1992 (west 759, east 1233)  max generation 784  (0.74 years/s)  energy conserved to 3.3e-08
+runs/big/seed-3: year 2,000  population 1992 (west 1110, east 882)  max generation 667  (0.74 years/s)  energy conserved to 2.2e-07
+runs/big/seed-16: year 2,000  population 2105 (west 918, east 1187)  max generation 560  (0.74 years/s)  energy conserved to 1.6e-07
+runs/big/seed-6: year 2,000  population 2016 (west 994, east 1022)  max generation 657  (0.74 years/s)  energy conserved to 1.7e-07
+runs/big/seed-14: year 2,000  population 2010 (west 1479, east 531)  max generation 680  (0.73 years/s)  energy conserved to 3.5e-08
+runs/big/seed-1: year 2,000  population 2139 (west 943, east 1196)  max generation 583  (0.73 years/s)  energy conserved to 1.7e-07
+runs/big/seed-15: year 2,000  population 1998 (west 648, east 1350)  max generation 661  (0.73 years/s)  energy conserved to 1.5e-07
+=== 2026-10-11 18:02:10  START wall  (16 seeds x 5000 years, folder ../experiment-s7-wall, options: none)
+=== 2026-10-11 18:02:10  START ford1  (16 seeds x 5000 years, folder ../experiment-s7-ford1, options: none)
+2026-10-11 18:02:10  16 seeds x 5000 years -> runs/wall  (16 at a time)  options: none
+2026-10-11 18:02:10  16 seeds x 5000 years -> runs/ford1  (16 at a time)  options: none
+runs/big/seed-7: year 2,000  population 2006 (west 1237, east 769)  max generation 608  (0.73 years/s)  energy conserved to 1.7e-07
+runs/big/seed-10: year 2,000  population 2150 (west 1490, east 660)  max generation 554  (0.72 years/s)  energy conserved to 4.4e-08
+runs/big/seed-9: year 2,000  population 2087 (west 1001, east 1086)  max generation 513  (0.70 years/s)  energy conserved to 7.4e-08
+
+runs/big  (16 seeds, mean of the last 50 years)
+          seed          year    population      pop_west      pop_east     crossings  max_generati    gene_repro    gene_alpha      gene_eps   dialect_jsd  ecology_entr     max_drift
+        seed-1          2000          2143         915.9          1228           160         574.3         21.56       0.03736       0.02382      0.005672         4.551      1.69e-07
+       seed-10          2000          2159          1499         659.3         223.8         543.8         21.41       0.03556       0.02438      0.001956         4.403      4.58e-08
+       seed-11          2000          1982         934.7          1048         194.3         695.6         21.36       0.04119       0.03532      0.000486         4.905      1.66e-07
+       seed-12          2000          1969         843.9          1125         645.7         507.7         21.44       0.05711       0.02043       0.01368         4.493      2.45e-07
+       seed-13          2000          1969          1160         809.1         189.3         534.1         21.47       0.05981       0.03075      0.002042         4.881      2.71e-07
+       seed-14          2000          2029          1502         526.8         221.7         672.7         21.41       0.03783       0.03538      0.003044         4.473      3.52e-08
+       seed-15          2000          2028         649.5          1379         256.9         654.8         21.32       0.05931       0.02676      0.006796         4.817      1.45e-07
+       seed-16          2000          2062           896          1166         188.5         553.2         21.42       0.08424        0.0348      0.001624         5.458      1.63e-07
+        seed-2          2000          1996         755.6          1241           255         773.7         21.43       0.03244       0.03337      0.003032          4.51      6.02e-08
+        seed-3          2000          1995          1088         907.5         259.7           658         21.44       0.02942       0.04285       0.00019         5.063      2.22e-07
+        seed-4          2000          1999          1280         719.1         228.6         775.6          21.4       0.05774       0.03712        0.0016         5.472      2.96e-07
+        seed-5          2000          1996          1020         976.3           304         507.3         21.39       0.04241       0.03679      0.000348         4.973      1.98e-07
+        seed-6          2000          2014         991.6          1023           236         649.6         21.47       0.03586       0.03223      0.000596         4.822      1.68e-07
+        seed-7          2000          2045          1235         809.9         212.6         600.6         21.47       0.06127       0.03346      0.000688         5.319      1.73e-07
+        seed-8          2000          2020          1435         585.1         170.5         597.5         21.46       0.04031       0.04541      0.002618          4.63       2.1e-07
+        seed-9          2000          2094          1028          1066         183.3         504.9         21.46       0.03766       0.02949      0.000512          4.74      7.44e-08
+          mean          2000          2031          1077         954.2         245.6         612.7         21.43       0.04685       0.03265      0.002805         4.844     1.651e-07
+            sd             0          57.3         257.3         250.7         113.2         88.76       0.05385       0.01475      0.006675       0.00346        0.3443     7.827e-08
+
+wrote /home/minty/Desktop/desktop-setup/_build/experiment-s7/runs/summary.csv
+runs/ford1/seed-16: year 981  population 1087 (west 473, east 614)  max generation 254  (0.68 years/s)  energy conserved to 6.5e-08
+runs/wall/seed-4: year 771  population 1091 (west 404, east 687)  max generation 253  (0.53 years/s)  energy conserved to 4.1e-08
+runs/wall/seed-10: year 764  population 1165 (west 535, east 630)  max generation 266  (0.53 years/s)  energy conserved to 2.6e-09
+runs/wall/seed-5: year 801  population 1046 (west 541, east 505)  max generation 319  (0.56 years/s)  energy conserved to 2.2e-08
+runs/ford1/seed-7: year 1,000  population 1027 (west 594, east 433)  max generation 375  (0.69 years/s)  energy conserved to 3.5e-08
+runs/ford1/seed-5: year 994  population 1117 (west 756, east 361)  max generation 263  (0.69 years/s)  energy conserved to 3.2e-08
+runs/ford1/seed-8: year 1,019  population 992 (west 575, east 417)  max generation 395  (0.71 years/s)  energy conserved to 5.4e-08
+runs/ford1/seed-4: year 981  population 1105 (west 374, east 731)  max generation 298  (0.68 years/s)  energy conserved to 3.0e-08
+runs/ford1/seed-9: year 974  population 1090 (west 534, east 556)  max generation 300  (0.68 years/s)  energy conserved to 1.4e-08
+runs/ford1/seed-13: year 1,008  population 1117 (west 538, east 579)  max generation 254  (0.70 years/s)  energy conserved to 8.4e-08
+runs/ford1/seed-3: year 983  population 1144 (west 729, east 415)  max generation 252  (0.68 years/s)  energy conserved to 9.2e-08
+runs/ford1/seed-6: year 974  population 1109 (west 419, east 690)  max generation 254  (0.67 years/s)  energy conserved to 6.5e-08
+runs/ford1/seed-15: year 988  population 1061 (west 420, east 641)  max generation 265  (0.68 years/s)  energy conserved to 9.5e-08
+runs/wall/seed-12: year 811  population 995 (west 555, east 440)  max generation 297  (0.56 years/s)  energy conserved to 1.1e-07
+runs/wall/seed-1: year 776  population 1091 (west 516, east 575)  max generation 288  (0.54 years/s)  energy conserved to 2.7e-08
+runs/wall/seed-8: year 791  population 1116 (west 522, east 594)  max generation 264  (0.55 years/s)  energy conserved to 5.2e-08
+runs/ford1/seed-1: year 996  population 1010 (west 489, east 521)  max generation 302  (0.69 years/s)  energy conserved to 4.1e-08
+runs/wall/seed-16: year 786  population 1089 (west 524, east 565)  max generation 246  (0.54 years/s)  energy conserved to 4.5e-08
+runs/ford1/seed-11: year 981  population 1101 (west 690, east 411)  max generation 249  (0.68 years/s)  energy conserved to 4.5e-08
+runs/ford1/seed-12: year 1,012  population 1044 (west 606, east 438)  max generation 349  (0.70 years/s)  energy conserved to 8.8e-08
+runs/ford1/seed-2: year 1,000  population 1081 (west 418, east 663)  max generation 361  (0.69 years/s)  energy conserved to 6.5e-08
+runs/wall/seed-15: year 783  population 1079 (west 646, east 433)  max generation 275  (0.54 years/s)  energy conserved to 6.4e-08
+runs/ford1/seed-14: year 972  population 1145 (west 639, east 506)  max generation 243  (0.67 years/s)  energy conserved to 3.8e-08
+runs/wall/seed-2: year 799  population 1057 (west 476, east 581)  max generation 316  (0.55 years/s)  energy conserved to 2.4e-08
+runs/wall/seed-9: year 774  population 1113 (west 503, east 610)  max generation 297  (0.54 years/s)  energy conserved to 8.6e-09
+runs/wall/seed-3: year 779  population 1080 (west 679, east 401)  max generation 203  (0.54 years/s)  energy conserved to 5.2e-08
+runs/wall/seed-14: year 779  population 1049 (west 497, east 552)  max generation 295  (0.54 years/s)  energy conserved to 3.5e-08
+runs/wall/seed-13: year 818  population 1060 (west 535, east 525)  max generation 248  (0.57 years/s)  energy conserved to 6.6e-08
+runs/wall/seed-7: year 787  population 1068 (west 537, east 531)  max generation 316  (0.55 years/s)  energy conserved to 3.9e-08
+runs/wall/seed-6: year 783  population 1082 (west 363, east 719)  max generation 282  (0.54 years/s)  energy conserved to 5.0e-08
+runs/ford1/seed-10: year 968  population 1141 (west 567, east 574)  max generation 237  (0.67 years/s)  energy conserved to 5.5e-08
+runs/wall/seed-11: year 790  population 1109 (west 451, east 658)  max generation 253  (0.55 years/s)  energy conserved to 4.2e-08
+=== 2026-10-12 21:44:24  RESUME base to year 10000: 1:8000 2:8000 3:8000 4:8000 5:8000 6:8000 7:8000 8:8000 9:8000 10:8000 11:8000 12:8000 13:8000 14:8000 15:8000 16:8000
+=== 2026-10-12 21:44:24  RESUME none to year 10000: 1:8000 2:8000 3:8000 4:8000 5:8000 6:8000 7:8000 8:8000 9:8000 10:8000 11:8000 12:8000 13:8000 14:8000 15:8000 16:8000
+=== 2026-10-12 21:44:24  RESUME wall to year 10000: 1:9224 2:9201 3:9221 4:9229 5:9199 6:9217 7:9213 8:9209 9:9226 10:9236 11:9210 12:9189 13:9182 14:9221 15:9217 16:9214
+=== 2026-10-12 21:44:24  RESUME ford1 to year 10000: 1:9004 2:9000 3:9017 4:9019 5:9006 6:9026 7:9000 8:8981 9:9026 10:9032 11:9019 12:8988 13:8992 14:9028 15:9012 16:9019
+=== 2026-10-12 21:48:40  RESUME wall to year 5000: 1:4162 2:4139 3:4154 4:4170 5:4143 6:4162 7:4148 8:4144 9:4168 10:4177 11:4154 12:4128 13:4117 14:4151 15:4158 16:4157
+=== 2026-10-12 21:48:40  RESUME ford1 to year 5000: 1:3949 2:3948 3:3966 4:3957 5:3951 6:3965 7:3945 8:3920 9:3967 10:3974 11:3967 12:3925 13:3939 14:3967 15:3955 16:3963
+=== 2026-10-12 23:48:04  DONE  ford1 at year 5000
+=== 2026-10-12 23:51:08  DONE  wall at year 5000
+=== 2026-10-12 23:51:08  RESUME FINISHED: ford1 wall to year 5000
+=== 2026-10-12 23:51:08  RESUME base to year 10000: 1:7941 2:7940 3:7933 4:7947 5:7949 6:7946 7:7947 8:7950 9:7944 10:7939 11:7945 12:7944 13:7944 14:7942 15:7944 16:7941
+=== 2026-10-12 23:51:08  RESUME none to year 10000: 1:7938 2:7943 3:7936 4:7949 5:7940 6:7946 7:7937 8:7949 9:7942 10:7939 11:7946 12:7941 13:7941 14:7950 15:7935 16:7941
+=== 2026-10-13 03:43:01  DONE  none at year 10000
+=== 2026-10-13 03:45:53  DONE  base at year 10000
+=== 2026-10-13 03:45:54  RESUME FINISHED: base none to year 10000
+=== 2026-10-13 03:45:54  RESUME wall to year 10000: 1:5000 2:5000 3:5000 4:5000 5:5000 6:5000 7:5000 8:5000 9:5000 10:5000 11:5000 12:5000 13:5000 14:5000 15:5000 16:5000
+=== 2026-10-13 03:45:54  RESUME ford1 to year 10000: 1:5000 2:5000 3:5000 4:5000 5:5000 6:5000 7:5000 8:5000 9:5000 10:5000 11:5000 12:5000 13:5000 14:5000 15:5000 16:5000
+=== 2026-10-13 06:15:47  DONE  ford1 at year 10000
+=== 2026-10-13 06:16:22  DONE  wall at year 10000
+=== 2026-10-13 06:16:23  RESUME FINISHED: ford1 wall to year 10000
+=== 2026-10-13 06:16:23  10K PROGRAMME FINISHED

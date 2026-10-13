@@ -1,0 +1,19 @@
+Throughput tests on the Ryzen 9 5950X (32 threads), recovered verbatim from the session transcript.
+The test scripts did not write files; their console output is reproduced exactly below.
+
+1. smt_test.sh, 11 October 2026, about 6:08 pm. ford1 + wall running (32 processes), then wall frozen
+   with SIGSTOP (not killed) for a matched window, leaving ford1 alone on 16 processes.
+
+A  32 processes (ford1 + wall), 181s:  ford1 10.093 + wall 10.060 = 20.153 simulated years/s
+   wall frozen: 16 processes stopped at 18:08:17
+   wall resumed at 18:11:22
+B  16 processes (ford1 alone), 180s:  17.688 simulated years/s
+
+second-thread gain: 1.139x aggregate throughput for 2x the processes
+
+2. 64 simulations at once (ford1, wall, base, none, 16 seeds each), 12 October 2026, about 9:45 pm.
+   64 simulations were running; the procs figure is a raw process count and includes more than them.
+
+procs=132  years 252737 -> 255538 over 180s  aggregate 15.56 simulated years/s
+
+   CPU temperature during it: Tctl +53.0 C. The run was then cut back to 32 processes (run10k.sh).

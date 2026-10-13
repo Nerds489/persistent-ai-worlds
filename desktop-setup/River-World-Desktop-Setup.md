@@ -2,6 +2,8 @@
 
 **A setup paper: Scenarios A and B in one sealed world, with a river down the middle.** 11 October 2026.
 
+Lachlan Bremner (Nerds489). DOI: [10.5281/zenodo.23337944](https://doi.org/10.5281/zenodo.23337944). The text and figures are licensed under CC BY 4.0, the code under the MIT License.
+
 
 ## About this paper
 

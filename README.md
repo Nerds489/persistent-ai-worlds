@@ -31,58 +31,9 @@ Filed in the AI store, `otmof-ops/codex-division-2`, at `neural-evolution/artifi
 
 ## Licence
 
-None chosen yet, so all rights are reserved for now. One is decided before this repository or anything in it goes public; see `PUBLISHING.md` Part 0.3.
-
-## Contents of the paper
-
-1. The science of never-ending learning
-2. Landmark experiments, re-checked
-3. Foundation models meet open-endedness, 2023 to 2026
-4. Societies of language-model agents
-5. World models: when the simulator itself is learned
-6. Progressive learning: forgetting, plasticity and memory
-7. The toolkit in October 2026
-8. Building a persistent multi-agent world
-9. Scenario A: two AIs in a never-ending forest
-10. Scenario B: AIs sealed in a box for 1,000 years
-11. Safety, ethics and validity
-12. Getting started: an eight-week path
-13. Outlook: what to watch through 2027
-14. Conclusion
-
-Appendices: A, corrections to the first edition; B, the reference simulations; C, install commands for Linux Mint 22.3 and Python 3.12; D, artificial-life simulators you can run; E, glossary. Then 248 numbered references.
-
-## Running the simulations
-
-Python 3.10 or newer and NumPy. Nothing else.
-
-```bash
-python3 sim/forest_world.py --ticks 400000 --fresh   # new forest, about 33 simulated years
-python3 sim/forest_world.py --ticks 400000           # carry on from the checkpoint
-python3 sim/sealed_box.py --years 1000 --fresh       # 1,000 years, about 4.5 minutes on a 2019 laptop CPU
-python3 sim/sealed_box.py --years 300 --fresh --energy 24000 --capacity 3000   # energy-limited box
-```
-
-Each run writes `checkpoint.pkl` and `log.csv` into `forest_run/` or `box_run/` under the current directory (`--dir` changes it). Stop a run at any point and the same command resumes it. `sealed_box.py` asserts after every tick that total energy is conserved.
-
-## Rebuilding the paper
-
-Needs Python 3 with the `markdown` package (3.x) and Google Chrome.
-
-```bash
-cd _source
-python3 figs.py arch forest box timeline scale cover   # figures, drawn from the logs in runs/
-python3 build_paper.py out screen                      # out/paper.md and out/paper.pdf
-python3 build_paper.py out print                       # out/paper-print.pdf
-```
-
-- `sections/` holds the text, one file per chapter. Cite with `[@key]`; every key is defined in `refs.py`.
-- The build stops on an unknown citation key, and on figure or table numbers that skip or repeat.
-- `research/` holds the notes behind each chapter, including the claim-by-claim audit of the first edition (`09-factcheck.md`), and `arxiv_meta.json`, the arXiv metadata the references are built from. `python3 arxiv_meta.py` refreshes it and adds any newly cited arXiv paper.
-- `runs/` holds the reference runs behind Figures 4 and 5 (`forest2`, `box1000`) and the 250-year energy-limited run quoted in Section 10 (`box_lean`).
-- Fonts are IBM Plex, under the SIL Open Font License 1.1 (`fonts/OFL.txt`).
-
-## Limits
-
-- Search coverage was partial for parts of the 2026 sweep, so "none found" in the notes is weaker evidence than a positive finding. In the paper, anything that could not be confirmed from a primary source is labelled as an estimate, a vendor claim or unverified, or left out.
-- `artificial-life-simulators.md` was not re-verified for this edition; Appendix D of the paper is the checked list.
+- ***River World on the Desktop*** (`desktop-setup/`): text, figures, findings and logs under CC BY 4.0, code under
+  the MIT License. See `desktop-setup/README.md`. Published on Zenodo as
+  [10.5281/zenodo.23337944](https://doi.org/10.5281/zenodo.23337944).
+- **Everything else** (*Running Persistent AI Worlds*, `sim/`, `_source/`, `_archive/`): no licence chosen yet, so all
+  rights are reserved for now. See `PUBLISHING.md` Part 0.3.
+- The IBM Plex fonts keep their own SIL Open Font License.

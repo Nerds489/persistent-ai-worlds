@@ -32,8 +32,9 @@ Filed in the AI store, `otmof-ops/codex-division-2`, at `neural-evolution/artifi
 ## Licence
 
 - ***River World on the Desktop*** (`desktop-setup/`): text, figures, findings and logs under CC BY 4.0, code under
-  the MIT License. See `desktop-setup/README.md`. Published on Zenodo as
-  [10.5281/zenodo.23337944](https://doi.org/10.5281/zenodo.23337944).
+  the MIT License. See `desktop-setup/README.md`. On Zenodo: the paper and kit
+  [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390), the logs, checkpoints and tests
+  [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578).
 - **Everything else** (*Running Persistent AI Worlds*, `sim/`, `_source/`, `_archive/`): no licence chosen yet, so all
   rights are reserved for now. See `PUBLISHING.md` Part 0.3.
 - The IBM Plex fonts keep their own SIL Open Font License.

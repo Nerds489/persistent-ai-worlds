@@ -26,4 +26,8 @@ or any `@@` value is unfilled.
 licensed under the MIT License (`LICENSE-MIT.txt`, and `river-world/LICENSE`). The IBM Plex fonts in
 `_build/fonts/` keep their own SIL Open Font License. Copyright (c) 2026 Lachlan Bremner.
 
-Cite as: Bremner, L. (2026). *River World on the Desktop*. Zenodo. <https://doi.org/10.5281/zenodo.23337944>
+Cite as: Bremner, L. (2026). *River World on the Desktop*. Zenodo. <https://doi.org/10.5281/zenodo.23338390>
+
+Run logs, checkpoints and tests: Bremner, L. (2026). Zenodo. <https://doi.org/10.5281/zenodo.23338578>
+
+Author ORCID: <https://orcid.org/0009-0007-8818-4607>

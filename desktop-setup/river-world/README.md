@@ -46,4 +46,4 @@ yourself, never ones downloaded from someone else.
 ## Licence
 
 The code is released under the MIT License (`LICENSE`). It accompanies *River World on the Desktop* by Lachlan
-Bremner, DOI [10.5281/zenodo.23337944](https://doi.org/10.5281/zenodo.23337944).
+Bremner, DOI [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390).

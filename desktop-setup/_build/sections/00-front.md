@@ -2,8 +2,6 @@
 
 **A setup paper: Scenarios A and B in one sealed world, with a river down the middle.** 11 October 2026.
 
-Lachlan Bremner (Nerds489). DOI: [10.5281/zenodo.23337944](https://doi.org/10.5281/zenodo.23337944). The text and figures are licensed under CC BY 4.0, the code under the MIT License.
-
 <!-- cover -->
 
 ## About this paper
@@ -17,6 +15,8 @@ The research paper *Running Persistent AI Worlds* (second edition, 10 October 20
 - **The six experiments, run.** All six from Section 7, sixteen seeds each, 2,000 simulated years and 10,000 for the four still moving, on the desktop. Predictions written first and scored afterwards (Section 11).
 
 Measured numbers in Sections 1 to 10 come from the laptop the paper was built on, and the desktop figures there are labelled as estimates. Section 11 was run on the desktop itself and replaces those estimates with measurements.
+
+**Author:** Lachlan Bremner (Nerds489), ORCID [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607). **Cite as:** Bremner, L. (2026). *River World on the Desktop*. Zenodo. [doi:10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390). Run logs, checkpoints and tests: [doi:10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578). **Licence:** text and figures CC BY 4.0, code MIT License.
 
 ## Contents
 

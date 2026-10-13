@@ -42,3 +42,8 @@ code change, copy this folder and start fresh worlds in the copy.
 
 Checkpoints are Python pickles, and loading a pickle can run code: only resume or map checkpoints you made
 yourself, never ones downloaded from someone else.
+
+## Licence
+
+The code is released under the MIT License (`LICENSE`). It accompanies *River World on the Desktop* by Lachlan
+Bremner, DOI [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390).

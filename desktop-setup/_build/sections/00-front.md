@@ -16,6 +16,8 @@ The research paper *Running Persistent AI Worlds* (second edition, 10 October 20
 
 Measured numbers in Sections 1 to 10 come from the laptop the paper was built on, and the desktop figures there are labelled as estimates. Section 11 was run on the desktop itself and replaces those estimates with measurements.
 
+**Author:** Lachlan Bremner (Nerds489), ORCID [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607). **Cite as:** Bremner, L. (2026). *River World on the Desktop*. Zenodo. [doi:10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390). Run logs, checkpoints and tests: [doi:10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578). **Licence:** text and figures CC BY 4.0, code MIT License.
+
 ## Contents
 
 1. [The desktop](#1-the-desktop)

@@ -10,6 +10,18 @@ rules and dates change.
 | *Running Persistent AI Worlds* (top level) | A review of the field, with two small reference simulations | Zenodo only for now (see Part 3, the arXiv rule on review articles) |
 | The simulation kit (`desktop-setup/river-world/`) | 664 lines of Python | Zenodo with the paper; JOSS is a long shot (Part 6) |
 
+## Where it stands (13 October 2026)
+
+| Step | Status |
+|---|---|
+| ORCID | Done: [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607) |
+| Licences | Done for *River World on the Desktop*: text and figures CC BY 4.0, code MIT. *Running Persistent AI Worlds* still undecided |
+| Zenodo record A, paper and kit | Published: [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390) ([record](https://zenodo.org/records/23338390)) |
+| Zenodo record B, data | Published as version 1, logs and tests only: [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578) ([record](https://zenodo.org/records/23338578)) |
+| Checkpoints | To go up as version 2 of record B. Zenodo throttled uploads to about 6 KB per connection on 13 October, from home and from a phone hotspot alike. The archives are packed in `~/zenodo-upload/record-b/` |
+| Repository public | Not yet |
+| arXiv, ALIFE 2027, journal, JOSS | Not started |
+
 The order:
 
 1. **Before anything:** an ORCID iD, the licence, and the repository made public (Part 0).

@@ -18,3 +18,16 @@ Start with Section 4 of the paper: a one-minute smoke test that also measures th
 Rebuild the paper: `cd _build && python3 figs_river.py flow && python3 build_paper.py out screen && python3 build_paper.py out print`
 (needs Python 3 with `markdown`, and Google Chrome). The build stops if any figure or table number is out of order
 or any `@@` value is unfilled.
+
+## Licence
+
+*River World on the Desktop*, its text, figures, findings and logs, are licensed under CC BY 4.0
+(`LICENSE-CC-BY-4.0.txt`). The code (`river-world/` and the scripts under `_build/` and `findings-and-tests/`) is
+licensed under the MIT License (`LICENSE-MIT.txt`, and `river-world/LICENSE`). The IBM Plex fonts in
+`_build/fonts/` keep their own SIL Open Font License. Copyright (c) 2026 Lachlan Bremner.
+
+Cite as: Bremner, L. (2026). *River World on the Desktop*. Zenodo. <https://doi.org/10.5281/zenodo.23338390>
+
+Run logs, checkpoints and tests: Bremner, L. (2026). Zenodo. <https://doi.org/10.5281/zenodo.23338578>
+
+Author ORCID: <https://orcid.org/0009-0007-8818-4607>

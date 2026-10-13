@@ -26,15 +26,15 @@ Filed in the AI store, `otmof-ops/codex-division-2`, at `neural-evolution/artifi
 
 ## Not in this repository
 
-- **Run checkpoints** (`checkpoint.pkl`, 155 files, 6.4 GB): only needed to resume a run, and every measured number is in the logs beside them. They stay on the machines that made them; `PUBLISHING.md` Part 1 archives them on Zenodo.
+- **Run checkpoints** (`checkpoint.pkl`, 155 files, 6.4 GB): only needed to resume a run, and every measured number is in the logs beside them. They stay on the machines that made them, and go up as version 2 of the Zenodo data record (see `PUBLISHING.md`).
 - `desktop-setup.7z` and the desktop sync zip: bundles of files that are already here.
 
 ## Licence
 
 - ***River World on the Desktop*** (`desktop-setup/`): text, figures, findings and logs under CC BY 4.0, code under
   the MIT License. See `desktop-setup/README.md`. On Zenodo: the paper and kit
-  [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390), the logs, checkpoints and tests
-  [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578).
+  [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390), the logs and tests
+  [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578) (checkpoints to follow as its version 2).
 - **Everything else** (*Running Persistent AI Worlds*, `sim/`, `_source/`, `_archive/`): no licence chosen yet, so all
   rights are reserved for now. See `PUBLISHING.md` Part 0.3.
 - The IBM Plex fonts keep their own SIL Open Font License.

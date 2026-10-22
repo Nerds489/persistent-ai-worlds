@@ -14,6 +14,8 @@ This is a complete rewrite of the February 2026 report of the same name, researc
 
 **Method.** Nine research streams ran in parallel on 10 October 2026: open-endedness, artificial life, multi-agent reinforcement learning, language-model societies, world models, continual learning, tooling and costs, safety and validity, and a fact-check of the first edition. Titles, authors and dates of all cited arXiv papers were taken from the arXiv API. Package versions were read from PyPI and GitHub; the install commands in Appendix C were resolved against Python 3.12 with `pip install --dry-run`. The research cut-off is 10 October 2026.
 
+**Author:** Lachlan Bremner (Nerds489), ORCID [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607). **Cite as:** Bremner, L. (2026). *Running Persistent AI Worlds*, second edition. Zenodo. [doi:10.5281/zenodo.23558245](https://doi.org/10.5281/zenodo.23558245). **Licence:** text and figures CC BY 4.0, code MIT License.
+
 ## Contents
 
 1. [The science of never-ending learning](#1-the-science-of-never-ending-learning)

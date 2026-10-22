@@ -31,10 +31,14 @@ Filed in the AI store, `otmof-ops/codex-division-2`, at `neural-evolution/artifi
 
 ## Licence
 
-- ***River World on the Desktop*** (`desktop-setup/`): text, figures, findings and logs under CC BY 4.0, code under
-  the MIT License. See `desktop-setup/README.md`. On Zenodo: the paper and kit
-  [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390), the logs, tests and checkpoints
-  [10.5281/zenodo.23338577](https://doi.org/10.5281/zenodo.23338577) (all versions; checkpoints from version 2).
-- **Everything else** (*Running Persistent AI Worlds*, `sim/`, `_source/`, `_archive/`): no licence chosen yet, so all
-  rights are reserved for now. See `PUBLISHING.md` Part 0.3.
-- The IBM Plex fonts keep their own SIL Open Font License.
+Copyright (c) 2026 Lachlan Bremner.
+
+- **Text, figures, findings, logs and data:** CC BY 4.0 (`LICENSE-CC-BY-4.0.txt`).
+- **Code** (`sim/`, `_source/` and `desktop-setup/` scripts, the `river-world/` kit): MIT License (`LICENSE`).
+- **IBM Plex fonts:** their own SIL Open Font License 1.1; see `THIRD-PARTY-NOTICES.md`.
+
+On Zenodo:
+
+- *Running Persistent AI Worlds*, second edition: [10.5281/zenodo.23558245](https://doi.org/10.5281/zenodo.23558245).
+- *River World on the Desktop*, paper and kit: [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390).
+- *River World* logs, tests and checkpoints: [10.5281/zenodo.23338577](https://doi.org/10.5281/zenodo.23338577) (all versions; checkpoints from version 2).

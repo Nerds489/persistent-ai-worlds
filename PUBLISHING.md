@@ -17,8 +17,8 @@ rules and dates change.
 | ORCID | Done: [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607) |
 | Licences | Done for *River World on the Desktop*: text and figures CC BY 4.0, code MIT. *Running Persistent AI Worlds* still undecided |
 | Zenodo record A, paper and kit | Published: [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390) ([record](https://zenodo.org/records/23338390)) |
-| Zenodo record B, data | Published as version 1, logs and tests only: [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578) ([record](https://zenodo.org/records/23338578)) |
-| Checkpoints | To go up as version 2 of record B. Zenodo throttled uploads to about 6 KB per connection on 13 October, from home and from a phone hotspot alike. The archives are packed in `~/zenodo-upload/record-b/` |
+| Zenodo record B, data | Published. Version 1 (logs and tests) [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578); version 2 adds every checkpoint, [10.5281/zenodo.23341715](https://doi.org/10.5281/zenodo.23341715) ([record](https://zenodo.org/records/23341715)). All versions: [10.5281/zenodo.23338577](https://doi.org/10.5281/zenodo.23338577) |
+| Checkpoints | Done, in record B version 2 (22 October 2026): 152 checkpoints in 49 archives. Zenodo cut long uploads off with 502 errors, so large archives were split by seed until each uploaded in minutes |
 | Repository public | Not yet |
 | arXiv, ALIFE 2027, journal, JOSS | Not started |
 

@@ -1,0 +1,16 @@
+{
+  "title": "Persistent AI Worlds: papers, simulations and data",
+  "upload_type": "software",
+  "description": "<p>Source repository for two papers by Lachlan Bremner: <em>Running Persistent AI Worlds</em> (second edition, doi:10.5281/zenodo.23558245), a review of multi-agent simulations with progressive learning, and <em>River World on the Desktop</em> (doi:10.5281/zenodo.23338390), six pre-registered experiments in a persistent multi-agent world with a river. It holds both papers, their build sources, the reference simulations, the river-world kit, and the per-year logs and findings of every run; the run checkpoints are in doi:10.5281/zenodo.23338577.</p>",
+  "creators": [
+    {"name": "Bremner, Lachlan", "affiliation": "Independent researcher", "orcid": "0009-0007-8818-4607"}
+  ],
+  "license": "MIT",
+  "keywords": ["artificial life", "multi-agent reinforcement learning", "open-endedness", "neuroevolution", "agent-based simulation", "Q-learning", "continual learning"],
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23558245", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.23338390", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.23338577", "relation": "references", "scheme": "doi"}
+  ]
+}

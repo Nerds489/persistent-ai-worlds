@@ -15,11 +15,12 @@ rules and dates change.
 | Step | Status |
 |---|---|
 | ORCID | Done: [0009-0007-8818-4607](https://orcid.org/0009-0007-8818-4607) |
-| Licences | Done for *River World on the Desktop*: text and figures CC BY 4.0, code MIT. *Running Persistent AI Worlds* still undecided |
+| Licences | Done for the whole repository: text, figures and data CC BY 4.0, code MIT, IBM Plex fonts OFL (`THIRD-PARTY-NOTICES.md`) |
 | Zenodo record A, paper and kit | Published: [10.5281/zenodo.23338390](https://doi.org/10.5281/zenodo.23338390) ([record](https://zenodo.org/records/23338390)) |
 | Zenodo record B, data | Published. Version 1 (logs and tests) [10.5281/zenodo.23338578](https://doi.org/10.5281/zenodo.23338578); version 2 adds every checkpoint, [10.5281/zenodo.23341715](https://doi.org/10.5281/zenodo.23341715) ([record](https://zenodo.org/records/23341715)). All versions: [10.5281/zenodo.23338577](https://doi.org/10.5281/zenodo.23338577) |
 | Checkpoints | Done, in record B version 2 (22 October 2026): 152 checkpoints in 49 archives. Zenodo cut long uploads off with 502 errors, so large archives were split by seed until each uploaded in minutes |
-| Repository public | Not yet |
+| Repository public | Yes, from 22 October 2026: <https://github.com/Nerds489/persistent-ai-worlds> |
+| Zenodo record C, review paper | *Running Persistent AI Worlds*, second edition, published: [10.5281/zenodo.23558245](https://doi.org/10.5281/zenodo.23558245) ([record](https://zenodo.org/records/23558245)) |
 | arXiv, ALIFE 2027, journal, JOSS | Not started |
 
 The order:

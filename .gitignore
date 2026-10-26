@@ -10,3 +10,8 @@ desktop-setup/desktop-sync-*.zip
 # Python
 __pycache__/
 *.pyc
+
+# Conference template (downloaded per year from the call) and private outreach notes
+alife-2027/_template/
+alife-2027/alifeconf.sty
+arxiv/

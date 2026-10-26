@@ -21,7 +21,9 @@ rules and dates change.
 | Checkpoints | Done, in record B version 2 (22 October 2026): 152 checkpoints in 49 archives. Zenodo cut long uploads off with 502 errors, so large archives were split by seed until each uploaded in minutes |
 | Repository public | Yes, from 22 October 2026: <https://github.com/Nerds489/persistent-ai-worlds> |
 | Zenodo record C, review paper | *Running Persistent AI Worlds*, second edition, published: [10.5281/zenodo.23558245](https://doi.org/10.5281/zenodo.23558245) ([record](https://zenodo.org/records/23558245)) |
-| arXiv, ALIFE 2027, journal, JOSS | Not started |
+| ALIFE 2027 | Draft of the 8-page full paper in `alife-2027/` (26 October 2026), references verified. The 2027 call is not out yet; rebuild against its template when it is |
+| arXiv | Endorsement request and a ranked list of possible cs.NE endorsers prepared (26 October 2026); account not yet registered |
+| Journal, JOSS | Not started |
 
 The order:
 
